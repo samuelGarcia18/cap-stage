@@ -1,0 +1,9 @@
+[
+ {"name":"Airbus","sector":"Aéronautique","ats":"workday","host":"ag.wd3.myworkdayjobs.com","tenant":"ag","site":"Airbus","verified":true},
+ {"name":"Thales","sector":"Défense","ats":"workday","host":"thales.wd3.myworkdayjobs.com","tenant":"thales","site":"Careers","verified":true},
+ {"name":"Boeing","sector":"Aéronautique","ats":"workday","host":"boeing.wd1.myworkdayjobs.com","tenant":"boeing","site":"EXTERNAL_CAREERS","verified":false},
+ {"name":"Lockheed Martin","sector":"Défense","ats":"workday","host":"lmco.wd1.myworkdayjobs.com","tenant":"lmco","site":"LMCareers","verified":false},
+ {"name":"Northrop Grumman","sector":"Défense","ats":"workday","host":"ngc.wd1.myworkdayjobs.com","tenant":"ngc","site":"Northrop_Grumman_External_Site","verified":false},
+ {"name":"Textron (Bell)","sector":"Hélicoptères","ats":"workday","host":"textron.wd1.myworkdayjobs.com","tenant":"textron","site":"Bell","verified":false},
+ {"name":"MBDA","sector":"Défense","ats":"smartrecruiters","company":"MBDA","verified":false}
+]

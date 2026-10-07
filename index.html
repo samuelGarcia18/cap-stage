@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cap Stage</title>
+<style>
+:root{--bg:#e8edf0;--card:#f7f9fa;--ink:#13202b;--mut:#5b6b78;--line:#c5d0d8;--acc:#0a5c9e;--on:#fff;--bad:#b3362f}
+@media(prefers-color-scheme:dark){:root{--bg:#0e161d;--card:#16212b;--ink:#e6edf2;--mut:#93a4b1;--line:#2a3a47;--acc:#5fb0ee;--on:#06131d;--bad:#ef7d75}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+header,main{max-width:1100px;margin:auto;padding:20px}header{padding-bottom:0}
+h1{font-size:clamp(34px,7vw,60px);line-height:1;margin:0 0 6px;letter-spacing:-.02em}.sub{color:var(--mut);margin:0 0 16px}
+nav{display:flex;gap:4px;border-bottom:2px solid var(--ink)}nav button{font:inherit;font-weight:700;background:none;border:0;color:var(--mut);padding:10px 16px;cursor:pointer;border-radius:6px 6px 0 0}nav button[aria-selected=true]{background:var(--ink);color:var(--bg)}
+button,input,select,textarea{font:inherit;color:inherit}:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:16px}.panel h2{font-size:17px;margin:0 0 10px}
+.row{display:flex;flex-wrap:wrap;gap:10px}.row>*{flex:1 1 150px;min-width:0}
+input,select,textarea{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px 10px;width:100%}
+.btn{background:var(--acc);color:var(--on);border:0;border-radius:6px;padding:8px 14px;font-weight:700;cursor:pointer;flex:0 0 auto}.btn.g{background:none;color:var(--ink);border:1px solid var(--line)}.btn.s{padding:4px 10px;font-size:13px}.btn:disabled{opacity:.5}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}.links a,.chip{border:1px solid var(--line);border-radius:99px;padding:3px 12px;font-size:13px;color:var(--ink);text-decoration:none;background:var(--bg)}.links a:hover{border-color:var(--acc);color:var(--acc)}
+.offer{display:grid;grid-template-columns:1fr auto;gap:8px 16px;padding:14px 0;border-top:1px solid var(--line)}.offer h3{margin:0;font-size:16px}
+.meta{color:var(--mut);font-size:13px;display:flex;flex-wrap:wrap;gap:2px 14px}.new{background:var(--acc);color:var(--on);border-radius:4px;padding:0 6px;font-size:12px;font-weight:700}
+.act{display:flex;gap:6px;align-items:flex-start}.empty{color:var(--mut);padding:16px 0;text-align:center}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}.stat{flex:1 1 110px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px}.stat b{font-size:26px;display:block}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;align-items:start}.col{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px;min-height:110px}.col h3{font-size:14px;margin:0 0 8px;display:flex;justify-content:space-between}
+.tk{background:var(--bg);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:6px;padding:9px;margin-bottom:8px;font-size:14px}.tk small{color:var(--mut);display:block}.tk select,.tk input,.tk textarea{margin-top:6px;font-size:13px;padding:4px 6px}.late{color:var(--bad);font-weight:700}
+.warn{color:var(--bad);font-size:13px}[hidden]{display:none!important}@media(max-width:560px){.offer{grid-template-columns:1fr}}
+</style></head><body>
+<header><h1>Cap Stage</h1><p class="sub" id="upd">Stages à l’étranger : défense, aéronautique, spatial, hélicoptères.</p>
+<nav><button id="t1" aria-selected="true">Offres</button><button id="t2" aria-selected="false">Suivi des candidatures</button></nav></header>
+<main>
+<section id="p1">
+ <div class="panel"><h2>Offres des sites carrières <span class="chip" id="cnt">0</span></h2>
+  <div class="row" style="margin-bottom:8px"><input id="fq" placeholder="Filtrer par texte" aria-label="Texte"><select id="fp" aria-label="Pays"></select><select id="fs" aria-label="Secteur"></select><select id="fc" aria-label="Entreprise"></select></div>
+  <div id="list"></div><p class="warn" id="err"></p></div>
+ <div class="panel"><h2>LinkedIn, Hellowork… : recherche et ajout manuel</h2>
+  <div class="row"><input id="kw" value="stage ingénieur" aria-label="Mots-clés"><select id="sc" aria-label="Pays de recherche"></select></div><div class="links" id="plat"></div>
+  <div class="row" style="margin-top:12px"><input id="nt" placeholder="Intitulé" aria-label="Intitulé"><input id="nc" placeholder="Entreprise" aria-label="Entreprise"><select id="np" aria-label="Pays"></select><input id="nu" type="url" placeholder="Lien https://…" aria-label="Lien"><button class="btn" id="add">Ajouter</button></div>
+  <p class="meta" id="msg" role="status"></p></div>
+</section>
+<section id="p2" hidden><div class="stats" id="stats"></div><div class="cols" id="board"></div></section>
+</main>
+<script>
+const $=i=>document.getElementById(i),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),safe=u=>/^https?:\/\//i.test(u)?u:'#';
+const ST=["À postuler","Postulé","Relancé","Entretien","Offre reçue","Refusé"];
+const PAYS=["Allemagne","Royaume-Uni","Italie","Espagne","Belgique","Pays-Bas","Suisse","Suède","Norvège","Pologne","États-Unis","Canada","Brésil","Inde","Émirats arabes unis","Singapour","Japon","Australie"];
+const S={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let auto=[],manual=S.get('cs_manual',[]),track=S.get('cs_track',[]);
+const opt=(a,f)=>(f?`<option value="">${f}</option>`:'')+a.map(x=>`<option>${esc(x)}</option>`).join('');
+$('sc').innerHTML=opt(PAYS);$('np').innerHTML=opt(PAYS);
+function plat(){const k=encodeURIComponent($('kw').value),c=encodeURIComponent($('sc').value);$('plat').innerHTML=[['LinkedIn',`https://www.linkedin.com/jobs/search/?keywords=${k}&location=${c}&f_JT=I`],['Hellowork',`https://www.hellowork.com/fr-fr/emploi/recherche.html?k=${k}&l=${c}`],['Indeed',`https://www.indeed.com/jobs?q=${k}&l=${c}`]].map(([n,u])=>`<a href="${u}" target="_blank" rel="noopener">${n} · ${esc($('sc').value)}</a>`).join('')}
+$('kw').oninput=$('sc').oninput=plat;plat();
+fetch('data/offres.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{auto=d.offers||[];
+ $('upd').textContent=d.updated?`Mise à jour le ${new Date(d.updated).toLocaleString('fr-FR')} · stages hors France, défense, aéro, spatial, hélicoptères.`:'Aucune collecte pour l’instant : lancez le workflow GitHub « Collecte quotidienne ».';
+ const e=Object.keys(d.errors||{});$('err').textContent=e.length?`Sources en erreur : ${e.join(', ')} (voir data/offres.json).`:'';init()}).catch(()=>{$('err').textContent='data/offres.json introuvable (ouvrez le site via GitHub Pages, pas en fichier local).';init()});
+const all=()=>[...manual,...auto];
+function init(){const a=all();$('fp').innerHTML=opt([...new Set([...PAYS,...a.map(o=>o.country)])].sort(),'Tous les pays');$('fs').innerHTML=opt([...new Set(a.map(o=>o.sector).filter(Boolean))],'Tous les secteurs');$('fc').innerHTML=opt([...new Set(a.map(o=>o.company))].sort(),'Toutes les entreprises');render()}
+const norm=s=>String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+function render(){const q=norm($('fq').value),p=$('fp').value,s=$('fs').value,c=$('fc').value,now=Date.now();
+ const l=all().filter(o=>(!q||norm(o.title+o.company+o.city).includes(q))&&(!p||o.country===p)&&(!s||o.sector===s)&&(!c||o.company===c));$('cnt').textContent=l.length;
+ $('list').innerHTML=l.length?l.map(o=>{const t=track.some(x=>x.oid===o.id),n=o.first_seen&&now-new Date(o.first_seen)<3*864e5;
+ return `<div class="offer"><div><h3>${n?'<span class="new">Nouveau</span> ':''}${esc(o.title)}</h3><div class="meta"><span>${esc(o.company)}</span><span>${esc(o.city?o.city+', ':'')}${esc(o.country)}</span><span>${esc(o.sector||'')}</span><span>${esc(o.source||'')}</span></div><div class="links"><a href="${safe(o.url)}" target="_blank" rel="noopener">Voir l’offre</a></div></div><div class="act"><button class="btn s" data-tr="${o.id}" ${t?'disabled':''}>${t?'Suivie':'Suivre'}</button>${o.manual?`<button class="btn g s" data-del="${o.id}">Supprimer</button>`:''}</div></div>`}).join(''):'<div class="empty">Aucune offre pour ces filtres.</div>'}
+['fq','fp','fs','fc'].forEach(i=>$(i).addEventListener('input',render));
+$('add').onclick=()=>{const t=$('nt').value.trim(),c=$('nc').value.trim(),u=$('nu').value.trim();if(!t||!c||!/^https?:\/\//i.test(u)){$('msg').textContent='Renseignez intitulé, entreprise et un lien commençant par https://.';return}
+ manual.unshift({id:'m'+Date.now(),manual:1,title:t,company:c,country:$('np').value,city:'',sector:'',source:'Ajout manuel',url:u,first_seen:new Date().toISOString()});S.set('cs_manual',manual);['nt','nc','nu'].forEach(i=>$(i).value='');$('msg').textContent='Offre ajoutée.';init()};
+$('list').onclick=e=>{const a=e.target.dataset.tr,d=e.target.dataset.del;
+ if(a){const o=all().find(x=>x.id==a);track.push({id:Date.now(),oid:o.id,t:o.title,c:o.company,p:o.country,u:o.url,st:ST[0],date:new Date().toISOString().slice(0,10),rel:'',note:''});S.set('cs_track',track);render()}
+ if(d){manual=manual.filter(x=>x.id!=d);S.set('cs_manual',manual);init()}};
+function board(){const td=new Date().toISOString().slice(0,10),late=t=>t.rel&&t.rel<=td&&!["Refusé","Offre reçue"].includes(t.st);
+ $('stats').innerHTML=`<div class="stat"><b>${track.length}</b>suivies</div><div class="stat"><b>${track.filter(t=>["Postulé","Relancé"].includes(t.st)).length}</b>en attente</div><div class="stat"><b>${track.filter(t=>t.st=="Entretien").length}</b>entretiens</div><div class="stat"><b>${track.filter(late).length}</b>relances à faire</div>`;
+ $('board').innerHTML=ST.map(s=>{const l=track.filter(t=>t.st===s);return `<div class="col"><h3>${s}<span class="chip">${l.length}</span></h3>${l.map(t=>`<div class="tk"><b>${esc(t.c)}</b><br>${esc(t.t)}<small>${esc(t.p)} · ajoutée le ${esc(t.date)}</small><small><a href="${safe(t.u)}" target="_blank" rel="noopener">Voir l’offre</a></small><select data-st="${t.id}" aria-label="Statut">${ST.map(x=>`<option ${x===t.st?'selected':''}>${x}</option>`).join('')}</select><label><small>Relance prévue</small><input type="date" data-rel="${t.id}" value="${esc(t.rel)}" class="${late(t)?'late':''}"></label><textarea rows="2" data-note="${t.id}" placeholder="Notes">${esc(t.note)}</textarea><button class="btn g s" data-rm="${t.id}" style="margin-top:6px">Retirer</button></div>`).join('')||'<div class="empty">Vide</div>'}</div>`}).join('')}
+$('board').addEventListener('change',e=>{const d=e.target.dataset,t=track.find(x=>x.id==(d.st||d.rel||d.note));if(!t)return;if(d.st)t.st=e.target.value;if(d.rel)t.rel=e.target.value;if(d.note)t.note=e.target.value;S.set('cs_track',track);board()});
+$('board').addEventListener('click',e=>{const i=e.target.dataset.rm;if(i){track=track.filter(x=>x.id!=i);S.set('cs_track',track);board();render()}});
+function tab(n){$('p1').hidden=n!=1;$('p2').hidden=n!=2;$('t1').setAttribute('aria-selected',n==1);$('t2').setAttribute('aria-selected',n==2);if(n==2)board()}
+$('t1').onclick=()=>tab(1);$('t2').onclick=()=>tab(2);
+</script></body></html>
