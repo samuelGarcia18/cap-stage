@@ -1,10 +1,32 @@
 {
- "updated": "2026-10-08T11:44:00Z",
+ "updated": "2026-10-08T13:00:22Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "offers": [
+  {
+   "id": "5296560b2771",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T13:00:22Z",
+   "title": "Internship / Master Thesis: Advanced Power Electronics & Hardware Design (d/f/m)",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship---Master-Thesis--Advanced-Power-Electronics---Hardware-Design--d-f-m-_JR10439326"
+  },
+  {
+   "id": "e6f8641c7864",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T13:00:22Z",
+   "title": "Werkstudent (m/w/d)  im Bereich Logistik",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent--m-w-d---im-Bereich-Logistik_JR10447194"
+  },
   {
    "id": "1d3890726b4e",
    "company": "Airbus",
