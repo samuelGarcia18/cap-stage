@@ -1,10 +1,21 @@
 {
- "updated": "2026-10-09T12:25:59Z",
+ "updated": "2026-10-09T12:46:43Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "offers": [
+  {
+   "id": "93688271d7cc",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-09T12:46:43Z",
+   "title": "BOGY / BORS Praktikum (m/w/d)",
+   "city": "Stuttgart",
+   "country": "Allemagne",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Stuttgart/BOGY---BORS-Praktikum--m-w-d-_R0290029"
+  },
   {
    "id": "fb6a815ecc05",
    "company": "Airbus",
