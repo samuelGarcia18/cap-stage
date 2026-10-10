@@ -1,10 +1,54 @@
 {
- "updated": "2026-10-09T13:09:29Z",
+ "updated": "2026-10-10T12:05:00Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "offers": [
+  {
+   "id": "b2e4243dae73",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-10T12:05:00Z",
+   "title": "ACOLSV Tactical Planner - Internship",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLSV-Tactical-Planner---Internship_JR10402686"
+  },
+  {
+   "id": "93688271d7cc",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-10T12:05:00Z",
+   "title": "BOGY / BORS Praktikum (m/w/d)",
+   "city": "Stuttgart",
+   "country": "Allemagne",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Stuttgart/BOGY---BORS-Praktikum--m-w-d-_R0290029"
+  },
+  {
+   "id": "0c96ef555ea6",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-10T12:05:00Z",
+   "title": "2027 Operations Manufacturing Engineering Intern",
+   "city": "United States-Florida-Melbourne",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688"
+  },
+  {
+   "id": "b65d2710984c",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-10T12:05:00Z",
+   "title": "2027 Intern Engineer - Product Support",
+   "city": "United States-Florida-Melbourne",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457"
+  },
   {
    "id": "fb6a815ecc05",
    "company": "Airbus",
@@ -70,72 +114,6 @@
    "city": "Bangalore Area",
    "country": "Inde",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-Infrastructures-and-Platforms_JR10449284"
-  },
-  {
-   "id": "7946a45be29a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "FTM Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390"
-  },
-  {
-   "id": "6a28aeaa6d92",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Internship - Technical Data Support & Services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data-Support---Services_JR10449171"
-  },
-  {
-   "id": "8adf2cec3515",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Internship-Configuration & PLM Integration  services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship-Configuration---PLM-Integration--services_JR10448743"
-  },
-  {
-   "id": "1176c35bf5c4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Internship - Physical Design & Integration",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Physical-Design---Integration_JR10449086"
-  },
-  {
-   "id": "34240dae1e93",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Internship - Digital for Corporate Analytics (IIDM)",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-for-Corporate-Analytics--IIDM-_JR10448603"
-  },
-  {
-   "id": "1cb790f26117",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Werkstudent (d/m/w) im Bereich Tool Center-, Calibration- & Logistics Services",
-   "city": "Hamburg Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-Tool-Center---Calibration----Logistics-Services_JR10445424"
   },
   {
    "id": "68382d20a7d4",
@@ -776,17 +754,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044"
   },
   {
-   "id": "15b6dd08cc6f",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Communications Intern (Jan 2027 Intake)",
-   "city": "Singapore",
-   "country": "Singapour",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Communications-Intern_R0338806"
-  },
-  {
    "id": "647c5a61a35e",
    "company": "Thales",
    "sector": "Défense",
@@ -818,6 +785,17 @@
    "city": "Madrid",
    "country": "Espagne",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Legal---Contract-General-Intern--Hybrid-_R0335572-1"
+  },
+  {
+   "id": "15b6dd08cc6f",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Communications Intern (Jan 2027 Intake)",
+   "city": "Singapore",
+   "country": "Singapour",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Communications-Intern_R0338806"
   },
   {
    "id": "348f812a8492",
@@ -1293,17 +1271,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829"
   },
   {
-   "id": "8a61a9b41f8b",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
-   "city": "GBR - Bristol, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
-  },
-  {
    "id": "9d567676578f",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1326,59 +1293,15 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
   },
   {
-   "id": "33b2799d2ba2",
+   "id": "8a61a9b41f8b",
    "company": "Boeing",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Supply Chain Management Intern (Fixed Wing) - 12 Month Placement",
+   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
    "city": "GBR - Bristol, UK",
    "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131"
-  },
-  {
-   "id": "5fc23c2adf75",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement",
-   "city": "GBR - Gosport, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118"
-  },
-  {
-   "id": "7972202a201a",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Sustainability Intern – Global Real Estate & Facilities - 12 Month Placement",
-   "city": "GBR - Hounslow, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
-  },
-  {
-   "id": "8e60620976f4",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
-   "city": "USA - Berkeley, MO",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659"
-  },
-  {
-   "id": "f038c92f77c5",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
-   "city": "USA - North Charleston, SC",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704"
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
   },
   {
    "id": "f5f5e90c7e55",
@@ -1425,26 +1348,37 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992-1"
   },
   {
-   "id": "1e8a10701e04",
+   "id": "33b2799d2ba2",
    "company": "Boeing",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Microelectronics R&D Intern",
-   "city": "USA - Huntington Beach, CA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675"
+   "title": "Supply Chain Management Intern (Fixed Wing) - 12 Month Placement",
+   "city": "GBR - Bristol, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131"
   },
   {
-   "id": "a60e71194c1f",
+   "id": "5fc23c2adf75",
    "company": "Boeing",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Engineering & Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern",
-   "city": "USA - Huntington Beach, CA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774"
+   "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement",
+   "city": "GBR - Gosport, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118"
+  },
+  {
+   "id": "7972202a201a",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Sustainability Intern – Global Real Estate & Facilities - 12 Month Placement",
+   "city": "GBR - Hounslow, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
   },
   {
    "id": "468611c03988",
@@ -1502,6 +1436,28 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1"
   },
   {
+   "id": "5949ff641ee2",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing",
+   "city": "USA - Seattle, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830-1"
+  },
+  {
+   "id": "1f8e0bbf36d5",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (PAID) – Finance (Evergreen)",
+   "city": "USA - Hazelwood, MO",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1"
+  },
+  {
    "id": "820532c87e1c",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1524,28 +1480,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Facilities-Engineering_JR2026521015-1"
   },
   {
-   "id": "1f8e0bbf36d5",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (PAID) – Finance (Evergreen)",
-   "city": "USA - Hazelwood, MO",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1"
-  },
-  {
-   "id": "5949ff641ee2",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing",
-   "city": "USA - Seattle, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830-1"
-  },
-  {
    "id": "514f7fb355e8",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1557,6 +1491,28 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
   },
   {
+   "id": "8e60620976f4",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
+   "city": "USA - Berkeley, MO",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659"
+  },
+  {
+   "id": "a60e71194c1f",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Engineering & Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern",
+   "city": "USA - Huntington Beach, CA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774"
+  },
+  {
    "id": "e1f88056cc74",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1566,6 +1522,28 @@
    "city": "USA - Hazelwood, MO",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768"
+  },
+  {
+   "id": "f038c92f77c5",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
+   "city": "USA - North Charleston, SC",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704"
+  },
+  {
+   "id": "1e8a10701e04",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Microelectronics R&D Intern",
+   "city": "USA - Huntington Beach, CA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675"
   },
   {
    "id": "4e48336c14d9",
@@ -1645,17 +1623,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/San-Diego-Manufacturing-Technician-Intern---Fall_R10255107"
   },
   {
-   "id": "838902623924",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Materials Engineer Intern - Sunnyvale CA",
-   "city": "United States-California-Sunnyvale",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084"
-  },
-  {
    "id": "215211d9e92b",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -1665,61 +1632,6 @@
    "city": "United States-Missouri-Saint Charles",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053"
-  },
-  {
-   "id": "c640b637db31",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Configuration Management Intern - Sunnyvale CA",
-   "city": "United States-California-Sunnyvale",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Configuration-Management-Intern---Sunnyvale-CA_R10255068"
-  },
-  {
-   "id": "5b8874067248",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Technical Writer Intern - Cape Canaveral FL",
-   "city": "United States-Florida-Cape Canaveral",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219"
-  },
-  {
-   "id": "0662aa19aa01",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Test Engineer Intern - Sunnyvale CA",
-   "city": "United States-California-Sunnyvale",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1"
-  },
-  {
-   "id": "f396c755d607",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Mechanical Engineer Intern - Ocean Springs MS",
-   "city": "United States-Mississippi-Ocean Springs",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1"
-  },
-  {
-   "id": "b083fd196966",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Mechanical Engineer Intern - Annapolis MD",
-   "city": "United States-Maryland-Annapolis",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985"
   },
   {
    "id": "0fdb791d07af",
@@ -1733,39 +1645,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962"
   },
   {
-   "id": "35f1933cbf4b",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Intern - Systems Engineering",
-   "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930"
-  },
-  {
-   "id": "c994ef46a406",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Software Developer Intern- Chantilly VA",
-   "city": "United States-Virginia-Chantilly",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
-  },
-  {
-   "id": "d1f270ae74d4",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Software Engineering Intern - Roy UT",
-   "city": "United States-Utah-Roy",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"
-  },
-  {
    "id": "6204bf3e085b",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -1777,28 +1656,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Business-Management-Intern---San-Diego-CA_R10254608"
   },
   {
-   "id": "f60011eaa753",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 International Trade Compliance Intern - Rocket Center WV",
-   "city": "United States-West Virginia-Rocket Center",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-International-Trade-Compliance-Intern---Rocket-Center-WV_R10254452"
-  },
-  {
-   "id": "76541b3a51c6",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Supply Chain Intern - Elkton MD",
-   "city": "United States-Maryland-Elkton",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2027-Supply-Chain-Intern---Elkton-MD_R10254340-1"
-  },
-  {
    "id": "0235df05d145",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -1808,50 +1665,6 @@
    "city": "United States-Virginia-Unknown City",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/XMLNAME-2027-Global-Supply-Chain-Specialist-internship---VIRTUAL-REMOTE_R10253960"
-  },
-  {
-   "id": "adf2b3def00a",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Structural Engineering Intern Dulles Va",
-   "city": "United States-Virginia-Dulles",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
-  },
-  {
-   "id": "7b21ec2691e2",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Software Engineer Intern - Rolling Meadows IL",
-   "city": "United States-Illinois-Rolling Meadows",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
-  },
-  {
-   "id": "12138d6931d2",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Software Engineer Intern - Morrisville NC",
-   "city": "United States-North Carolina-Morrisville",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
-  },
-  {
-   "id": "596c5ec14215",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Software Engineering Intern Dulles VA",
-   "city": "United States-Virginia-Dulles",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
   },
   {
    "id": "ac5533d70d83",
