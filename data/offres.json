@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:05:00Z",
+ "updated": "2026-10-11T12:18:31Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
@@ -59,17 +59,6 @@
    "city": "Bangalore Area",
    "country": "Inde",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship----DCB_JR10449113"
-  },
-  {
-   "id": "3cd6b1a22a60",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "Test & Automation Engineering Intern Airbus Crisa",
-   "city": "Madrid Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/Test---Automation-Engineering-Intern-Airbus-Crisa_JR10439750"
   },
   {
    "id": "85b3261e10c1",
@@ -138,28 +127,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Aerospace-Engineering-Internship_JR2026525215-1"
   },
   {
-   "id": "e3f5b37babb8",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "2027 Electrical Engineer Intern -McClellan CA",
-   "city": "United States-California-McClellan",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116"
-  },
-  {
-   "id": "49a4729e827c",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "2027 - Mechanical Engineer Intern -McClellan CA",
-   "city": "United States-California-McClellan",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111"
-  },
-  {
    "id": "924c479c534a",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -169,17 +136,6 @@
    "city": "United States-California-McClellan",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"
-  },
-  {
-   "id": "d62146a3d35b",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "2027 Software Engineer Intern – McClellan CA",
-   "city": "United States-California-McClellan",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207"
   },
   {
    "id": "b283a8ed25ab",
@@ -1271,6 +1227,17 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829"
   },
   {
+   "id": "8a61a9b41f8b",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
+   "city": "GBR - Bristol, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
+  },
+  {
    "id": "9d567676578f",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1291,17 +1258,6 @@
    "city": "USA - Seattle, WA",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
-  },
-  {
-   "id": "8a61a9b41f8b",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
-   "city": "GBR - Bristol, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
   },
   {
    "id": "f5f5e90c7e55",
@@ -1546,28 +1502,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675"
   },
   {
-   "id": "4e48336c14d9",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Electrical/Systems Engineer Intern - Baltimore MD",
-   "city": "United States-Maryland-Baltimore",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010"
-  },
-  {
-   "id": "a035c8a7a22f",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Mechanical/Aerospace Engineer Intern - Baltimore MD",
-   "city": "United States-Maryland-Baltimore",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003"
-  },
-  {
    "id": "25b38a8fa9a7",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -1643,17 +1577,6 @@
    "city": "United States-Arizona-Gilbert",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962"
-  },
-  {
-   "id": "6204bf3e085b",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Business Management Intern - San Diego CA",
-   "city": "United States-California-San Diego",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Business-Management-Intern---San-Diego-CA_R10254608"
   },
   {
    "id": "0235df05d145",
