@@ -1,306 +1,42 @@
 {
- "updated": "2026-10-12T07:21:21Z",
+ "updated": "2026-10-12T14:44:03Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "offers": [
   {
-   "id": "8a43577433fb",
+   "id": "763531168185",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship  AI",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039"
-  },
-  {
-   "id": "f80a690a7741",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Intern Digital Workplace",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern-Digital-Workplace_JR10449529"
-  },
-  {
-   "id": "df23826d07ee",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
+   "first_seen": "2026-10-12T14:44:03Z",
    "title": "Internship - Structures",
    "city": "Bangalore Area",
    "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Structures_JR10449397"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Structures_JR10449090"
   },
   {
-   "id": "d86dec0a9086",
+   "id": "3cc58698629e",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - IIDEYMX",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---IIDEYMX_JR10449363"
-  },
-  {
-   "id": "92bfaf21bc08",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Flight Physics",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Flight-Physics_JR10449476"
-  },
-  {
-   "id": "e30e32405200",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - IIDEO",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---IIDEO_JR10449379"
-  },
-  {
-   "id": "966ca8f3b3b2",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship (d/f/m) within Helicopters Maintenance definition & Improvement",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--within-Helicopters-Maintenance-definition---Improvement_JR10431305"
-  },
-  {
-   "id": "59003603b7e4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Intern - Digital Operations Solutions",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Digital-Operations-Solutions_JR10449024"
-  },
-  {
-   "id": "addd8e09bbfb",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Intern - Digital Supply Chain Solutions",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Digital-Supply-Chain-Solutions_JR10449052"
-  },
-  {
-   "id": "8b6f8f9f7089",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Physical Design & Integration",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Physical-Design---Integration_JR10449607"
-  },
-  {
-   "id": "6ba9f0f7d65a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - IIDCS",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---IIDCS_JR10449633"
-  },
-  {
-   "id": "67cb74f2db9f",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Digital Security",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628"
-  },
-  {
-   "id": "9f862b089129",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": " Internship in Digital for Corporate Analytics",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/XMLNAME--Internship-in-Digital-for-Corporate-Analytics_JR10449080"
-  },
-  {
-   "id": "2320099fa1ac",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Digital for Aircraft (A/C) Delivery",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-for-Aircraft--A-C--Delivery_JR10449547"
-  },
-  {
-   "id": "dc77db1795e9",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Technical Data",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449545"
-  },
-  {
-   "id": "8b6ca252e532",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Technical Data Analyst Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386"
-  },
-  {
-   "id": "e88e26f2b930",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Intern - Maintenance Engineering & Services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517"
-  },
-  {
-   "id": "27b28038cc4c",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
+   "first_seen": "2026-10-12T14:44:03Z",
    "title": "SAP Intern",
    "city": "Bangalore Area",
    "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/SAP-Intern_JR10449156"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/SAP-Intern_JR10449089"
   },
   {
-   "id": "bdeed0ac438e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
+   "id": "daf620aee687",
+   "company": "Thales",
+   "sector": "Défense",
    "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Intern - SAP",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---SAP_JR10449468"
-  },
-  {
-   "id": "d5f5a65119ed",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Digital CoE for ERP India",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-CoE-for-ERP-India_JR10449465"
-  },
-  {
-   "id": "a67b40b415b8",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Aircraft Systems Department",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Aircraft-Systems-Department_JR10448954"
-  },
-  {
-   "id": "226093605449",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Software Engineering Intern – Full Stack (ReactJS / Python)",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435"
-  },
-  {
-   "id": "b6b1175897ba",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Aircraft Product Lifecycle Management (PLM) Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aircraft-Product-Lifecycle-Management--PLM--Intern_JR10449431"
-  },
-  {
-   "id": "29344e3147ed",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - Test Automation",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Test-Automation_JR10449226"
-  },
-  {
-   "id": "ebdcf55c6711",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Internship - ERP CoE Logistics and Planning",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---ERP-CoE-Logistics-and-Planning_JR10449352"
-  },
-  {
-   "id": "0281ad2e0354",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Technical Data  Internship - Airframe",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data--Internship---Airframe_JR10449378"
-  },
-  {
-   "id": "7835c0155027",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-12T07:21:21Z",
-   "title": "Technical Data Authoring Intern - Airframe",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374"
+   "first_seen": "2026-10-12T14:44:03Z",
+   "title": "Masterarbeit Chip-Placement mittels Strömungs-/Temperatur-Modellierung: Entropiebasiertes globales Placement als Alternative zu elektrostatischen Partikelmodellen",
+   "city": "Stuttgart",
+   "country": "Allemagne",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Stuttgart/Masterarbeit-Chip-Placement-mittels-Strmungs--Temperatur-Modellierung--Entropiebasiertes-globales-Placement-als-Alternative-zu-elektrostatischen-Partikelmodellen_R0338309"
   },
   {
    "id": "93688271d7cc",
@@ -1469,6 +1205,28 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
   },
   {
+   "id": "f5f5e90c7e55",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
+  },
+  {
+   "id": "9995916c6012",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
+  },
+  {
    "id": "33b2799d2ba2",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1500,28 +1258,6 @@
    "city": "GBR - Hounslow, UK",
    "country": "Royaume-Uni",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
-  },
-  {
-   "id": "f5f5e90c7e55",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
-  },
-  {
-   "id": "9995916c6012",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   },
   {
    "id": "2082460f2905",
