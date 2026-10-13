@@ -1,11 +1,153 @@
 {
- "updated": "2026-10-12T17:27:36Z",
+ "updated": "2026-10-13T08:39:12Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
-  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "offers": [
+  {
+   "id": "cb1ef4903c37",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Logistics intern",
+   "city": "Zhuhai",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Zhuhai/Logistics-intern_JR10449913"
+  },
+  {
+   "id": "b6b1175897ba",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Aircraft Product Lifecycle Management (PLM) Intern",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aircraft-Product-Lifecycle-Management--PLM--Intern_JR10449431"
+  },
+  {
+   "id": "05760c49309c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Quality Surveillance team Intern",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Quality-Surveillance-team-Intern_JR10449763"
+  },
+  {
+   "id": "80758ec8a322",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "ACOLS11-INTERN",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS11-INTERN_JR10449842"
+  },
+  {
+   "id": "791e04e1b34d",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Finance Intern",
+   "city": "Beijing",
+   "country": "China",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Beijing/Finance-Intern_R0342877"
+  },
+  {
+   "id": "9e78daf52b2c",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Stage - département finance",
+   "city": "Charleroi",
+   "country": "Belgique",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Charleroi/Stage---dpartement-finance_R0337608"
+  },
+  {
+   "id": "17fc08b57e57",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Stage Ressources humaines",
+   "city": "Charleroi",
+   "country": "Belgique",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Charleroi/Stage-Ressources-humaines_R0339185"
+  },
+  {
+   "id": "cfbb6eb7a686",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "Stage - CONTRÔLE DE GESTION",
+   "city": "Charleroi",
+   "country": "Belgique",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Charleroi/Stage---CONTRLE-DE-GESTION_R0339188"
+  },
+  {
+   "id": "f383ae76d549",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "2027 Intern Vehicle Engineering",
+   "city": "United States-Utah-Clearfield",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699"
+  },
+  {
+   "id": "53fbaf4c63f3",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "2027 Intern Engineer - Product Support",
+   "city": "United States-Oklahoma-Oklahoma City",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1"
+  },
+  {
+   "id": "58042ec50a01",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "2027 Pricing & Cost Estimating Intern - Chandler AZ",
+   "city": "United States-Arizona-Chandler",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Pricing---Cost-Estimating-Intern---Chandler-AZ_R10253454"
+  },
+  {
+   "id": "e5325779d633",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "2027 Systems Engineer Intern - Chantilly VA",
+   "city": "United States-Virginia-Chantilly",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
+  },
+  {
+   "id": "41d864f9cc11",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T08:39:12Z",
+   "title": "2027 Intern Vehicle Engineering - CA OK ND",
+   "city": "United States-California-Palmdale",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142"
+  },
   {
    "id": "daf620aee687",
    "company": "Thales",
@@ -27,17 +169,6 @@
    "city": "Stuttgart",
    "country": "Allemagne",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Stuttgart/BOGY---BORS-Praktikum--m-w-d-_R0290029"
-  },
-  {
-   "id": "b65d2710984c",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-10T12:05:00Z",
-   "title": "2027 Intern Engineer - Product Support",
-   "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457"
   },
   {
    "id": "68382d20a7d4",
@@ -71,17 +202,6 @@
    "city": "United States-California-McClellan",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163"
-  },
-  {
-   "id": "b283a8ed25ab",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-09T12:25:59Z",
-   "title": "2027 Contracts Administration Intern - Plymouth MN",
-   "city": "United States-Minnesota-Plymouth",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Contracts-Administration-Intern---Plymouth-MN_R10255195"
   },
   {
    "id": "4da712454056",
@@ -1184,6 +1304,28 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
   },
   {
+   "id": "f5f5e90c7e55",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
+  },
+  {
+   "id": "9995916c6012",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
+  },
+  {
    "id": "33b2799d2ba2",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1215,28 +1357,6 @@
    "city": "GBR - Hounslow, UK",
    "country": "Royaume-Uni",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
-  },
-  {
-   "id": "f5f5e90c7e55",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
-  },
-  {
-   "id": "9995916c6012",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   },
   {
    "id": "2082460f2905",
@@ -1424,28 +1544,6 @@
    "city": "USA - Huntington Beach, CA",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675"
-  },
-  {
-   "id": "25b38a8fa9a7",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Manufacturing Engineer Intern - Commerce CA",
-   "city": "United States-California-Commerce",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136"
-  },
-  {
-   "id": "f0395ee28597",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "2027 Manufacturing Engineer Intern - San Diego CA",
-   "city": "United States-California-San Diego",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134"
   },
   {
    "id": "2514c41fee6b",
