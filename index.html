@@ -29,6 +29,7 @@ input,select,textarea{background:var(--bg);border:1px solid var(--line);border-r
  <div class="panel"><h2>Offres des sites carrières <span class="chip" id="cnt">0</span></h2>
   <div class="row" style="margin-bottom:8px"><input id="fq" placeholder="Filtrer par texte" aria-label="Texte"><select id="fp" aria-label="Pays"></select><select id="fs" aria-label="Secteur"></select><select id="fc" aria-label="Entreprise"></select></div>
   <div id="list"></div><p class="warn" id="err"></p></div>
+ <div class="panel"><h2>Pages carrières à consulter vous-même</h2><p class="meta">Entreprises dont les offres ne peuvent pas être collectées automatiquement.</p><div class="links" id="man"></div></div>
  <div class="panel"><h2>LinkedIn, Hellowork… : recherche et ajout manuel</h2>
   <div class="row"><input id="kw" value="stage ingénieur" aria-label="Mots-clés"><select id="sc" aria-label="Pays de recherche"></select></div><div class="links" id="plat"></div>
   <div class="row" style="margin-top:12px"><input id="nt" placeholder="Intitulé" aria-label="Intitulé"><input id="nc" placeholder="Entreprise" aria-label="Entreprise"><select id="np" aria-label="Pays"></select><input id="nu" type="url" placeholder="Lien https://…" aria-label="Lien"><button class="btn" id="add">Ajouter</button></div>
@@ -47,11 +48,12 @@ $('sc').innerHTML=opt(PAYS);$('np').innerHTML=opt(PAYS);
 function plat(){const k=encodeURIComponent($('kw').value),c=encodeURIComponent($('sc').value);$('plat').innerHTML=[['LinkedIn',`https://www.linkedin.com/jobs/search/?keywords=${k}&location=${c}&f_JT=I`],['Hellowork',`https://www.hellowork.com/fr-fr/emploi/recherche.html?k=${k}&l=${c}`],['Indeed',`https://www.indeed.com/jobs?q=${k}&l=${c}`]].map(([n,u])=>`<a href="${u}" target="_blank" rel="noopener">${n} · ${esc($('sc').value)}</a>`).join('')}
 $('kw').oninput=$('sc').oninput=plat;plat();
 fetch('data/offres.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{auto=d.offers||[];
+ $('man').innerHTML=(d.manual||[]).map(m=>`<a href="${safe(m.url)}" target="_blank" rel="noopener" title="${esc(m.sector)}">${esc(m.name)}</a>`).join('')||'<span class="meta">Aucune</span>';
  $('upd').textContent=d.updated?`Mise à jour le ${new Date(d.updated).toLocaleString('fr-FR')} · stages hors France, défense, aéro, spatial, hélicoptères.`:'Aucune collecte pour l’instant : lancez le workflow GitHub « Collecte quotidienne ».';
  const e=Object.keys(d.errors||{});$('err').textContent=e.length?`Sources en erreur : ${e.join(', ')} (voir data/offres.json).`:'';init()}).catch(()=>{$('err').textContent='data/offres.json introuvable (ouvrez le site via GitHub Pages, pas en fichier local).';init()});
 const all=()=>[...manual,...auto];
 function init(){const a=all();$('fp').innerHTML=opt([...new Set([...PAYS,...a.map(o=>o.country)])].sort(),'Tous les pays');$('fs').innerHTML=opt([...new Set(a.map(o=>o.sector).filter(Boolean))],'Tous les secteurs');$('fc').innerHTML=opt([...new Set(a.map(o=>o.company))].sort(),'Toutes les entreprises');render()}
-const norm=s=>String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+const norm=s=>String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
 function render(){const q=norm($('fq').value),p=$('fp').value,s=$('fs').value,c=$('fc').value,now=Date.now();
  const l=all().filter(o=>(!q||norm(o.title+o.company+o.city).includes(q))&&(!p||o.country===p)&&(!s||o.sector===s)&&(!c||o.company===c));$('cnt').textContent=l.length;
  $('list').innerHTML=l.length?l.map(o=>{const t=track.some(x=>x.oid===o.id),n=o.first_seen&&now-new Date(o.first_seen)<3*864e5;
