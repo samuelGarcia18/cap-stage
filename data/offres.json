@@ -1,8 +1,6 @@
 {
- "updated": "2026-10-13T12:53:55Z",
- "errors": {
-  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)"
- },
+ "updated": "2026-10-13T13:46:35Z",
+ "errors": {},
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -27,6 +25,12 @@
    "sector": "Défense",
    "url": "https://www.knds.de/en/career/career-at-knds/internships-bachelors-studies",
    "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "MBDA",
+   "sector": "Défense",
+   "url": "https://www.mbda-systems.com/careers",
+   "why": "page inaccessible (HTTPError)"
   },
   {
    "name": "Arquus (John Cockerill)",
@@ -197,39 +201,6 @@
    "city": "Bangalore Area",
    "country": "Inde",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
-  },
-  {
-   "id": "ef9aa2675015",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T09:44:09Z",
-   "title": "Internship - AI for In-Service Engineering",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944"
-  },
-  {
-   "id": "5765bf88e2e1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T09:44:09Z",
-   "title": "Aerolens Intern - Integration Test & Analysis",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aerolens-Intern---Integration-Test---Analysis_JR10449126"
-  },
-  {
-   "id": "4f4db766ca66",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T09:44:09Z",
-   "title": "Internship - Industrialisation",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Industrialisation_JR10449645"
   },
   {
    "id": "69761c7e9590",
@@ -415,7 +386,7 @@
    "first_seen": "2026-10-09T12:25:59Z",
    "title": "2027 Intern Business Management",
    "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
+   "country": "États-Unis",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Business-Management_R10253504"
   },
   {
