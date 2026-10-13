@@ -1,10 +1,21 @@
 {
- "updated": "2026-10-13T09:44:09Z",
+ "updated": "2026-10-13T12:53:55Z",
  "errors": {
-  "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
-  "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
+  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)"
  },
  "manual": [
+  {
+   "name": "Lockheed Martin",
+   "sector": "Défense",
+   "url": "https://www.lockheedmartinjobs.com",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Textron (Bell)",
+   "sector": "Hélicoptères",
+   "url": "https://www.bellflight.com/company/careers/internships",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
   {
    "name": "Safran",
    "sector": "Aéronautique",
@@ -14,14 +25,8 @@
   {
    "name": "KNDS",
    "sector": "Défense",
-   "url": "https://www.knds.de/en/career",
+   "url": "https://www.knds.de/en/career/career-at-knds/internships-bachelors-studies",
    "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
-  },
-  {
-   "name": "MBDA",
-   "sector": "Défense",
-   "url": "https://www.mbda-systems.com/careers",
-   "why": "page inaccessible (HTTPError)"
   },
   {
    "name": "Arquus (John Cockerill)",
@@ -44,7 +49,7 @@
   {
    "name": "BAE Systems",
    "sector": "Défense",
-   "url": "https://www.baesystems.com/en/careers",
+   "url": "https://careers.baesystems.com/students-graduates-and-career-changers/internships",
    "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
   },
   {
@@ -86,7 +91,7 @@
   {
    "name": "Kongsberg",
    "sector": "Défense",
-   "url": "https://www.kongsberg.com/careers",
+   "url": "https://www.kongsberg.com/careers/vacancies/",
    "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
   },
   {
@@ -128,6 +133,50 @@
  ],
  "offers": [
   {
+   "id": "ddcabe7fc05a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T12:53:55Z",
+   "title": "Internship - DCC AI and Automation",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231"
+  },
+  {
+   "id": "fa576435c466",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T12:53:55Z",
+   "title": "Internship - Digital for Aircraft (A/C) Delivery",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-for-Aircraft--A-C--Delivery_JR10450148"
+  },
+  {
+   "id": "822d9b228d7f",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T12:53:55Z",
+   "title": "Admin (On-The-Job Trainee)",
+   "city": "Pasay City",
+   "country": "Philippines",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Pasay-City/Admin--On-The-Job-Trainee-_JR10450252"
+  },
+  {
+   "id": "abd918e7ab9d",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T12:53:55Z",
+   "title": "Internship Program",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship-Program_JR10449796"
+  },
+  {
    "id": "ad31517af5a4",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -148,17 +197,6 @@
    "city": "Bangalore Area",
    "country": "Inde",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
-  },
-  {
-   "id": "69761c7e9590",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T09:44:09Z",
-   "title": "Werkstudent für den Vertrieb (d/m/w)",
-   "city": "Buxtehude",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Buxtehude/Werkstudent-fr-den-Vertrieb--d-m-w-_JR10416078"
   },
   {
    "id": "ef9aa2675015",
@@ -194,6 +232,17 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Industrialisation_JR10449645"
   },
   {
+   "id": "69761c7e9590",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Werkstudent für den Vertrieb (d/m/w)",
+   "city": "Buxtehude",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Buxtehude/Werkstudent-fr-den-Vertrieb--d-m-w-_JR10416078"
+  },
+  {
    "id": "65ab11efb16c",
    "company": "Thales",
    "sector": "Défense",
@@ -203,50 +252,6 @@
    "city": "Madrid Emilio Vargas",
    "country": "Espagne",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid-Emilio-Vargas/INTELLIGENCE-TRAINEE-MADRID_R0338014-1"
-  },
-  {
-   "id": "cb1ef4903c37",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "Logistics intern",
-   "city": "Zhuhai",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Zhuhai/Logistics-intern_JR10449913"
-  },
-  {
-   "id": "b6b1175897ba",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "Aircraft Product Lifecycle Management (PLM) Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aircraft-Product-Lifecycle-Management--PLM--Intern_JR10449431"
-  },
-  {
-   "id": "05760c49309c",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "Quality Surveillance team Intern",
-   "city": "Tianjin Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Quality-Surveillance-team-Intern_JR10449763"
-  },
-  {
-   "id": "80758ec8a322",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "ACOLS11-INTERN",
-   "city": "Tianjin Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS11-INTERN_JR10449842"
   },
   {
    "id": "791e04e1b34d",
@@ -423,17 +428,6 @@
    "city": "Donauwörth",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum--d-m-w--im-Bereich-Produktion-Faserverbund-Composites_JR10424252"
-  },
-  {
-   "id": "59b55a77887e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikanten (d/m/w) im Bereich Elektrotechnik",
-   "city": "Immenstaad am Bodensee",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikanten--d-m-w--im-Bereich-Elektrotechnik_JR10425778"
   },
   {
    "id": "88cce7631ba5",
