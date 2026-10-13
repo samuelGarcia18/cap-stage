@@ -1,10 +1,209 @@
 {
- "updated": "2026-10-13T08:39:12Z",
+ "updated": "2026-10-13T09:44:09Z",
  "errors": {
   "Lockheed Martin": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)",
   "Textron (Bell)": "HTTPError: HTTP Error 422: Unprocessable Entity (connecteur non vérifié : contrôlez host/tenant/site)"
  },
+ "manual": [
+  {
+   "name": "Safran",
+   "sector": "Aéronautique",
+   "url": "https://www.safran-group.com/jobs",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "KNDS",
+   "sector": "Défense",
+   "url": "https://www.knds.de/en/career",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "MBDA",
+   "sector": "Défense",
+   "url": "https://www.mbda-systems.com/careers",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "Arquus (John Cockerill)",
+   "sector": "Défense",
+   "url": "https://www.arquus-defense.com/fr/notre-groupe/recrutement",
+   "why": "page inaccessible (URLError)"
+  },
+  {
+   "name": "Leonardo",
+   "sector": "Hélicoptères",
+   "url": "https://www.leonardo.com/en/careers",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Rheinmetall",
+   "sector": "Défense",
+   "url": "https://www.rheinmetall.com/en/career",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "BAE Systems",
+   "sector": "Défense",
+   "url": "https://www.baesystems.com/en/careers",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Saab",
+   "sector": "Défense",
+   "url": "https://www.saab.com/careers",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "RTX (Raytheon, Collins, Pratt & Whitney)",
+   "sector": "Défense",
+   "url": "https://careers.rtx.com",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "Rolls-Royce",
+   "sector": "Aéronautique",
+   "url": "https://careers.rolls-royce.com",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Dassault Aviation",
+   "sector": "Aéronautique",
+   "url": "https://www.dassault-aviation.com/en/group/careers",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Naval Group",
+   "sector": "Défense",
+   "url": "https://www.naval-group.com/en/join-us",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Hensoldt",
+   "sector": "Défense",
+   "url": "https://www.hensoldt.net/careers",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "Kongsberg",
+   "sector": "Défense",
+   "url": "https://www.kongsberg.com/careers",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "GE Aerospace",
+   "sector": "Aéronautique",
+   "url": "https://www.geaerospace.com/careers",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "L3Harris",
+   "sector": "Défense",
+   "url": "https://careers.l3harris.com",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "ArianeGroup",
+   "sector": "Spatial",
+   "url": "https://www.arianegroup.com/en/careers",
+   "why": "page inaccessible (URLError)"
+  },
+  {
+   "name": "OHB",
+   "sector": "Spatial",
+   "url": "https://www.ohb.de/en/career",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  },
+  {
+   "name": "Avio",
+   "sector": "Spatial",
+   "url": "https://www.avio.com/en/careers",
+   "why": "page inaccessible (HTTPError)"
+  },
+  {
+   "name": "ESA",
+   "sector": "Spatial",
+   "url": "https://www.esa.int/About_Us/Careers_at_ESA",
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+  }
+ ],
  "offers": [
+  {
+   "id": "ad31517af5a4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Intern - Retrofit Solution SB Designer",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Retrofit-Solution-SB-Designer_JR10449959"
+  },
+  {
+   "id": "15e501aac2ba",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Internship- FTM MOC",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
+  },
+  {
+   "id": "69761c7e9590",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Werkstudent für den Vertrieb (d/m/w)",
+   "city": "Buxtehude",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Buxtehude/Werkstudent-fr-den-Vertrieb--d-m-w-_JR10416078"
+  },
+  {
+   "id": "ef9aa2675015",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Internship - AI for In-Service Engineering",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944"
+  },
+  {
+   "id": "5765bf88e2e1",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Aerolens Intern - Integration Test & Analysis",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aerolens-Intern---Integration-Test---Analysis_JR10449126"
+  },
+  {
+   "id": "4f4db766ca66",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "Internship - Industrialisation",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Industrialisation_JR10449645"
+  },
+  {
+   "id": "65ab11efb16c",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-13T09:44:09Z",
+   "title": "INTELLIGENCE TRAINEE MADRID",
+   "city": "Madrid Emilio Vargas",
+   "country": "Espagne",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid-Emilio-Vargas/INTELLIGENCE-TRAINEE-MADRID_R0338014-1"
+  },
   {
    "id": "cb1ef4903c37",
    "company": "Airbus",
@@ -1304,28 +1503,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
   },
   {
-   "id": "f5f5e90c7e55",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
-  },
-  {
-   "id": "9995916c6012",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
-  },
-  {
    "id": "33b2799d2ba2",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1357,6 +1534,28 @@
    "city": "GBR - Hounslow, UK",
    "country": "Royaume-Uni",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
+  },
+  {
+   "id": "f5f5e90c7e55",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
+  },
+  {
+   "id": "9995916c6012",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   },
   {
    "id": "2082460f2905",
