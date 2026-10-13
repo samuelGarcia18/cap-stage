@@ -1,28 +1,146 @@
 [
- {"name":"Airbus","sector":"Aéronautique","ats":"workday","host":"ag.wd3.myworkdayjobs.com","tenant":"ag","site":"Airbus","verified":true},
- {"name":"Thales","sector":"Défense","ats":"workday","host":"thales.wd3.myworkdayjobs.com","tenant":"thales","site":"Careers","verified":true},
- {"name":"Boeing","sector":"Aéronautique","ats":"workday","host":"boeing.wd1.myworkdayjobs.com","tenant":"boeing","site":"EXTERNAL_CAREERS"},
- {"name":"Lockheed Martin","sector":"Défense","ats":"workday","host":"lmco.wd1.myworkdayjobs.com","tenant":"lmco","site":"LMCareers"},
- {"name":"Northrop Grumman","sector":"Défense","ats":"workday","host":"ngc.wd1.myworkdayjobs.com","tenant":"ngc","site":"Northrop_Grumman_External_Site"},
- {"name":"Textron (Bell)","sector":"Hélicoptères","ats":"workday","host":"textron.wd1.myworkdayjobs.com","tenant":"textron","site":"Bell"},
- {"name":"Safran","sector":"Aéronautique","url":"https://www.safran-group.com/jobs"},
- {"name":"KNDS","sector":"Défense","url":"https://www.knds.de/en/career"},
- {"name":"MBDA","sector":"Défense","url":"https://www.mbda-systems.com/careers"},
- {"name":"Arquus (John Cockerill)","sector":"Défense","url":"https://www.arquus-defense.com/fr/notre-groupe/recrutement"},
- {"name":"Leonardo","sector":"Hélicoptères","url":"https://www.leonardo.com/en/careers"},
- {"name":"Rheinmetall","sector":"Défense","url":"https://www.rheinmetall.com/en/career"},
- {"name":"BAE Systems","sector":"Défense","url":"https://www.baesystems.com/en/careers"},
- {"name":"Saab","sector":"Défense","url":"https://www.saab.com/careers"},
- {"name":"RTX (Raytheon, Collins, Pratt & Whitney)","sector":"Défense","url":"https://careers.rtx.com"},
- {"name":"Rolls-Royce","sector":"Aéronautique","url":"https://careers.rolls-royce.com"},
- {"name":"Dassault Aviation","sector":"Aéronautique","url":"https://www.dassault-aviation.com/en/group/careers"},
- {"name":"Naval Group","sector":"Défense","url":"https://www.naval-group.com/en/join-us"},
- {"name":"Hensoldt","sector":"Défense","url":"https://www.hensoldt.net/careers"},
- {"name":"Kongsberg","sector":"Défense","url":"https://www.kongsberg.com/careers"},
- {"name":"GE Aerospace","sector":"Aéronautique","url":"https://www.geaerospace.com/careers"},
- {"name":"L3Harris","sector":"Défense","url":"https://careers.l3harris.com"},
- {"name":"ArianeGroup","sector":"Spatial","url":"https://www.arianegroup.com/en/careers"},
- {"name":"OHB","sector":"Spatial","url":"https://www.ohb.de/en/career"},
- {"name":"Avio","sector":"Spatial","url":"https://www.avio.com/en/careers"},
- {"name":"ESA","sector":"Spatial","url":"https://www.esa.int/About_Us/Careers_at_ESA"}
+ {
+  "name": "Airbus",
+  "sector": "Aéronautique",
+  "ats": "workday",
+  "host": "ag.wd3.myworkdayjobs.com",
+  "tenant": "ag",
+  "site": "Airbus",
+  "verified": true
+ },
+ {
+  "name": "Thales",
+  "sector": "Défense",
+  "ats": "workday",
+  "host": "thales.wd3.myworkdayjobs.com",
+  "tenant": "thales",
+  "site": "Careers",
+  "verified": true
+ },
+ {
+  "name": "Boeing",
+  "sector": "Aéronautique",
+  "ats": "workday",
+  "host": "boeing.wd1.myworkdayjobs.com",
+  "tenant": "boeing",
+  "site": "EXTERNAL_CAREERS"
+ },
+ {
+  "name": "Lockheed Martin",
+  "sector": "Défense",
+  "url": "https://www.lockheedmartinjobs.com"
+ },
+ {
+  "name": "Northrop Grumman",
+  "sector": "Défense",
+  "ats": "workday",
+  "host": "ngc.wd1.myworkdayjobs.com",
+  "tenant": "ngc",
+  "site": "Northrop_Grumman_External_Site"
+ },
+ {
+  "name": "Textron (Bell)",
+  "sector": "Hélicoptères",
+  "url": "https://www.bellflight.com/company/careers/internships"
+ },
+ {
+  "name": "Safran",
+  "sector": "Aéronautique",
+  "url": "https://www.safran-group.com/jobs"
+ },
+ {
+  "name": "KNDS",
+  "sector": "Défense",
+  "url": "https://www.knds.de/en/career/career-at-knds/internships-bachelors-studies"
+ },
+ {
+  "name": "MBDA",
+  "sector": "Défense",
+  "url": "https://www.mbda-systems.com/careers"
+ },
+ {
+  "name": "Arquus (John Cockerill)",
+  "sector": "Défense",
+  "url": "https://www.arquus-defense.com/fr/notre-groupe/recrutement"
+ },
+ {
+  "name": "Leonardo",
+  "sector": "Hélicoptères",
+  "url": "https://www.leonardo.com/en/careers"
+ },
+ {
+  "name": "Rheinmetall",
+  "sector": "Défense",
+  "url": "https://www.rheinmetall.com/en/career"
+ },
+ {
+  "name": "BAE Systems",
+  "sector": "Défense",
+  "url": "https://careers.baesystems.com/students-graduates-and-career-changers/internships"
+ },
+ {
+  "name": "Saab",
+  "sector": "Défense",
+  "url": "https://www.saab.com/careers"
+ },
+ {
+  "name": "RTX (Raytheon, Collins, Pratt & Whitney)",
+  "sector": "Défense",
+  "url": "https://careers.rtx.com"
+ },
+ {
+  "name": "Rolls-Royce",
+  "sector": "Aéronautique",
+  "url": "https://careers.rolls-royce.com"
+ },
+ {
+  "name": "Dassault Aviation",
+  "sector": "Aéronautique",
+  "url": "https://www.dassault-aviation.com/en/group/careers"
+ },
+ {
+  "name": "Naval Group",
+  "sector": "Défense",
+  "url": "https://www.naval-group.com/en/join-us"
+ },
+ {
+  "name": "Hensoldt",
+  "sector": "Défense",
+  "url": "https://www.hensoldt.net/careers"
+ },
+ {
+  "name": "Kongsberg",
+  "sector": "Défense",
+  "url": "https://www.kongsberg.com/careers/vacancies/"
+ },
+ {
+  "name": "GE Aerospace",
+  "sector": "Aéronautique",
+  "url": "https://www.geaerospace.com/careers"
+ },
+ {
+  "name": "L3Harris",
+  "sector": "Défense",
+  "url": "https://careers.l3harris.com"
+ },
+ {
+  "name": "ArianeGroup",
+  "sector": "Spatial",
+  "url": "https://www.arianegroup.com/en/careers"
+ },
+ {
+  "name": "OHB",
+  "sector": "Spatial",
+  "url": "https://www.ohb.de/en/career"
+ },
+ {
+  "name": "Avio",
+  "sector": "Spatial",
+  "url": "https://www.avio.com/en/careers"
+ },
+ {
+  "name": "ESA",
+  "sector": "Spatial",
+  "url": "https://www.esa.int/About_Us/Careers_at_ESA"
+ }
 ]
