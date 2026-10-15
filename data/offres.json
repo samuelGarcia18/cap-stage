@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:45:31Z",
+ "updated": "2026-10-15T11:01:12Z",
  "errors": {},
  "manual": [
   {
@@ -137,37 +137,59 @@
  ],
  "offers": [
   {
-   "id": "e0907672871f",
+   "id": "eb06d3705b99",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "ACOLSL-INTERN",
-   "city": "Tianjin Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLSL-INTERN_JR10450574"
+   "first_seen": "2026-10-15T11:01:12Z",
+   "title": "Intern Frontend Developer",
+   "city": "Gdansk",
+   "country": "Pologne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058"
   },
   {
-   "id": "d49fcd5daff8",
+   "id": "e5a83d8717ed",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "Master thesis \"Materials & Processes repairability analysis for future aircraft\"",
+   "first_seen": "2026-10-15T11:01:12Z",
+   "title": "Intern (Engineering & digitalization)",
+   "city": "Beijing Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Intern--Engineering---digitalization-_JR10414576"
+  },
+  {
+   "id": "ca4d0e051df3",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-15T11:01:12Z",
+   "title": "Wing Structure Repair Manual Engineering Placement (12.5 months)",
+   "city": "Filton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Wing-Structure-Repair-Manual-Engineering-Placement--125-Months-_JR10428460"
+  },
+  {
+   "id": "8e18ea250377",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-15T11:01:12Z",
+   "title": "VIE Test Engineer (d/f/m) for Electromagnetic Compatibility (EMC) of Aircraft Cabin Systems",
    "city": "Hamburg Area",
    "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Master-thesis--Materials---Processes-repairability-analysis-for-future-aircraft-_JR10442789"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/VIE-Test-Engineer--d-f-m--for-Electromagnetic-Compatibility--EMC--of-Aircraft-Cabin-Systems_JR10447975-1"
   },
   {
-   "id": "2d52b50c0e0f",
-   "company": "Airbus",
-   "sector": "Aéronautique",
+   "id": "2eefecc8b3d8",
+   "company": "Thales",
+   "sector": "Défense",
    "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "Werkstudent (d/m/w) im Bereich Hubschraubermontage H125/H130/H160",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Werkstudent--d-m-w--im-Bereich-Hubschraubermontage-H125-H130-H160_JR10439698"
+   "first_seen": "2026-10-15T11:01:12Z",
+   "title": "Underwater R&T Intern",
+   "city": "Singapore",
+   "country": "Singapour",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Underwater-R-T-Intern_R0341920"
   },
   {
    "id": "82c99d457d48",
@@ -368,17 +390,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Pasay-City/Admin--On-The-Job-Trainee-_JR10450252"
   },
   {
-   "id": "65ab11efb16c",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T09:44:09Z",
-   "title": "INTELLIGENCE TRAINEE MADRID",
-   "city": "Madrid Emilio Vargas",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid-Emilio-Vargas/INTELLIGENCE-TRAINEE-MADRID_R0338014-1"
-  },
-  {
    "id": "791e04e1b34d",
    "company": "Thales",
    "sector": "Défense",
@@ -434,17 +445,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1"
   },
   {
-   "id": "58042ec50a01",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "2027 Pricing & Cost Estimating Intern - Chandler AZ",
-   "city": "United States-Arizona-Chandler",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Pricing---Cost-Estimating-Intern---Chandler-AZ_R10253454"
-  },
-  {
    "id": "e5325779d633",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -454,17 +454,6 @@
    "city": "United States-Virginia-Chantilly",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
-  },
-  {
-   "id": "41d864f9cc11",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "2027 Intern Vehicle Engineering - CA OK ND",
-   "city": "United States-California-Palmdale",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142"
   },
   {
    "id": "daf620aee687",
@@ -520,6 +509,17 @@
    "city": "United States-Florida-Melbourne",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Business-Management_R10253504"
+  },
+  {
+   "id": "87bafe1ca9b7",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Radio Frequency (RF) Test System Engineering Placement (12 months)",
+   "city": "Portsmouth",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274"
   },
   {
    "id": "57f43707c5d1",
@@ -632,17 +632,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Praktikant-Talent-Acquisition--d-m-w-_JR10433599"
   },
   {
-   "id": "3bf3eb0aa893",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikum (d/m/w) im operativen Einkauf",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikanten--d-m-w--im-operativen-Einkauf_JR10388431"
-  },
-  {
    "id": "5bf79783559b",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -698,17 +687,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Telecom-Digital-Payload-Architect-Engineering-Placement--13-months-_JR10426224"
   },
   {
-   "id": "87bafe1ca9b7",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Radio Frequency (RF) Test System Engineering Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274"
-  },
-  {
    "id": "138e18567045",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -740,17 +718,6 @@
    "city": "Broughton",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Facilities-and-Infrastructures-Mechanical---Electrical-Placement--125-months-_JR10429633"
-  },
-  {
-   "id": "ed36bc9f1835",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "IT Business Analyst for Extended Enterprise Connectivity Placement (12.5 months)",
-   "city": "Bristol Area",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/IT-Business-Analyst-for-Extended-Enterprise-Connectivity-Placement--125-months-_JR10430897"
   },
   {
    "id": "1ae38b57f872",
@@ -1125,17 +1092,6 @@
    "city": "Singapore",
    "country": "Singapour",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Talent-Acquisition-Intern--Jan-2027-intake-_R0339956"
-  },
-  {
-   "id": "536153d3b075",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Condition Based Monitoring Co-Op/Intern",
-   "city": "Ottawa",
-   "country": "Canada",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Condition-Based-Monitoring-Co-Op-Intern_R0338755-1"
   },
   {
    "id": "3414a28876f5",
@@ -1622,28 +1578,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   },
   {
-   "id": "8e60620976f4",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
-   "city": "USA - Berkeley, MO",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659"
-  },
-  {
-   "id": "f038c92f77c5",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
-   "city": "USA - North Charleston, SC",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704"
-  },
-  {
    "id": "2082460f2905",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1664,6 +1598,28 @@
    "city": "USA - Everett, WA",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992-1"
+  },
+  {
+   "id": "8e60620976f4",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
+   "city": "USA - Berkeley, MO",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659"
+  },
+  {
+   "id": "f038c92f77c5",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
+   "city": "USA - North Charleston, SC",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704"
   },
   {
    "id": "468611c03988",
