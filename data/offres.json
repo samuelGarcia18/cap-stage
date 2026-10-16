@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:57:07Z",
+ "updated": "2026-10-16T12:20:57Z",
  "errors": {},
  "manual": [
   {
@@ -136,6 +136,17 @@
   }
  ],
  "offers": [
+  {
+   "id": "e7ddcc8487ce",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-16T12:20:57Z",
+   "title": "Werkstudent (d/m/w) im Bereich H135 & H145 Products",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Werkstudent--d-m-w--im-Bereich-H135---H145-Products_JR10447133"
+  },
   {
    "id": "a85e26cc8010",
    "company": "Airbus",
@@ -1479,28 +1490,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481"
   },
   {
-   "id": "f5f5e90c7e55",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
-  },
-  {
-   "id": "9995916c6012",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
-  },
-  {
    "id": "8e60620976f4",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1521,6 +1510,28 @@
    "city": "USA - North Charleston, SC",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704"
+  },
+  {
+   "id": "f5f5e90c7e55",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1"
+  },
+  {
+   "id": "9995916c6012",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
+   "city": "USA - Everett, WA",
+   "country": "United States of America",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   },
   {
    "id": "2082460f2905",
