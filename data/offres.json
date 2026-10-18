@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:18:38Z",
+ "updated": "2026-10-18T10:34:11Z",
  "errors": {},
  "manual": [
   {
@@ -366,28 +366,6 @@
    "city": "United States-Florida-Saint Augustine",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Tech-Publications---Training-Intern---Product-Support_R10256053"
-  },
-  {
-   "id": "36bfa5dea02a",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027 Intern - Airworthiness Engineer",
-   "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205"
-  },
-  {
-   "id": "06a9d05640f0",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027 Supply Chain Intern - Elkridge MD",
-   "city": "United States-Maryland-Elkridge",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Supply-Chain-Intern---Elkridge-MD_R10256020"
   },
   {
    "id": "f60011eaa753",
@@ -1402,6 +1380,17 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829"
   },
   {
+   "id": "8a61a9b41f8b",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
+   "city": "GBR - Bristol, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
+  },
+  {
    "id": "9d567676578f",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -1422,17 +1411,6 @@
    "city": "USA - Seattle, WA",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1"
-  },
-  {
-   "id": "8a61a9b41f8b",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Human Resources Services Specialist Intern - 12 Months Placement",
-   "city": "GBR - Bristol, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
   },
   {
    "id": "f5f5e90c7e55",
@@ -1477,17 +1455,6 @@
    "city": "USA - Everett, WA",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992-1"
-  },
-  {
-   "id": "820532c87e1c",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Manufacturing Engineering Internship",
-   "city": "GBR - Sheffield, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411"
   },
   {
    "id": "33b2799d2ba2",
@@ -1598,6 +1565,17 @@
    "city": "USA - Hazelwood, MO",
    "country": "United States of America",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1"
+  },
+  {
+   "id": "820532c87e1c",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Manufacturing Engineering Internship",
+   "city": "GBR - Sheffield, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411"
   },
   {
    "id": "95dc03c26db1",
