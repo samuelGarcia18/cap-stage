@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:15:32Z",
+ "updated": "2026-10-19T09:27:24Z",
  "errors": {},
  "manual": [
   {
@@ -137,6 +137,83 @@
  ],
  "offers": [
   {
+   "id": "76544e856dfa",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016"
+  },
+  {
+   "id": "38ee59c2e850",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "Werkstudent (d/m/w) Business Operations Management Transformation in der Flugphysik",
+   "city": "Bremen Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Werkstudent--d-m-w--Business-Operations-Management-Transformation-in-der-Flugphysik_JR10450518"
+  },
+  {
+   "id": "5958f0d33e83",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "Intern - Software Developer (Python, Full stack)",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650"
+  },
+  {
+   "id": "d84f6d78d9d3",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "Data Science Intern",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781"
+  },
+  {
+   "id": "21eef7670239",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "IIDEQ _ Intern _ SAP",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/IIDEQ---Intern---SAP_JR10449891"
+  },
+  {
+   "id": "c81864b07069",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "IIDEQ_sap INTERN",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/IIDEQ-sap-INTERN_JR10449898"
+  },
+  {
+   "id": "2803c4e6858c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-19T09:27:24Z",
+   "title": "Internship - IIDC",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---IIDC_JR10449375"
+  },
+  {
    "id": "2cd0be6e6e8f",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -236,28 +313,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386"
   },
   {
-   "id": "e7ddcc8487ce",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T12:20:57Z",
-   "title": "Werkstudent (d/m/w) im Bereich H135 & H145 Products",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Werkstudent--d-m-w--im-Bereich-H135---H145-Products_JR10447133"
-  },
-  {
-   "id": "f253004c7108",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T10:57:07Z",
-   "title": "HR Automation Intern",
-   "city": "SINGAPORE",
-   "country": "Singapour",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795"
-  },
-  {
    "id": "536153d3b075",
    "company": "Thales",
    "sector": "Défense",
@@ -267,6 +322,17 @@
    "city": "Ottawa",
    "country": "Canada",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Condition-Based-Monitoring-Co-Op-Intern_R0338755-1"
+  },
+  {
+   "id": "f253004c7108",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-16T10:57:07Z",
+   "title": "HR Automation Intern (Jan 2027 intake)",
+   "city": "SINGAPORE",
+   "country": "Singapour",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795"
   },
   {
    "id": "8f450c27ab2b",
@@ -357,50 +423,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Wing-Structure-Repair-Manual-Engineering-Placement--125-Months-_JR10428460"
   },
   {
-   "id": "82c99d457d48",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027 Tech Publications & Training Intern - Product Support",
-   "city": "United States-Florida-Saint Augustine",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Tech-Publications---Training-Intern---Product-Support_R10256053"
-  },
-  {
-   "id": "f60011eaa753",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027 International Trade Compliance Intern - Rocket Center WV",
-   "city": "United States-West Virginia-Rocket Center",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-International-Trade-Compliance-Intern---Rocket-Center-WV_R10254452"
-  },
-  {
-   "id": "04962bec13ce",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027 Contracts Administration Intern - Elkton MD",
-   "city": "United States-Maryland-Elkton",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2027-Contracts-Administration-Intern---Elkton-MD_R10253255"
-  },
-  {
-   "id": "5d75b0157944",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-15T06:45:31Z",
-   "title": "2027  Project Management Intern - Roy UT",
-   "city": "United States-Utah-Roy",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027--Project-Management-Intern---Roy-UT_R10255987"
-  },
-  {
    "id": "8f55d0bcc418",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -432,28 +454,6 @@
    "city": "Beijing",
    "country": "China",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Beijing/Customer-Front-Office-Representative-Intern_R0342427-1"
-  },
-  {
-   "id": "7b5f9dc77c8d",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-14T11:24:19Z",
-   "title": "2027 Computer Engineer Intern - Manhattan Beach CA",
-   "city": "United States-California-Manhattan Beach",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835"
-  },
-  {
-   "id": "4c761018aa65",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-14T11:24:19Z",
-   "title": "2027 Electrical Engineer Intern - Manhatten Beach CA",
-   "city": "United States-California-Redondo Beach",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Manhatten-Beach-CA_R10255685"
   },
   {
    "id": "791e04e1b34d",
@@ -498,17 +498,6 @@
    "city": "Charleroi",
    "country": "Belgique",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Charleroi/Stage---CONTRLE-DE-GESTION_R0339188"
-  },
-  {
-   "id": "53fbaf4c63f3",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-13T08:39:12Z",
-   "title": "2027 Intern Engineer - Product Support",
-   "city": "United States-Oklahoma-Oklahoma City",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1"
   },
   {
    "id": "daf620aee687",
@@ -1191,17 +1180,6 @@
    "city": "Benalla",
    "country": "Australie",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Benalla/NDT-Technician-Trainee_R0338799-1"
-  },
-  {
-   "id": "8c9d7236a288",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Stagiaire Finance",
-   "city": "Rabat",
-   "country": "Morocco",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Rabat/Stagiaire-Finance_R0334044-1"
   },
   {
    "id": "f0d092d5af94",
