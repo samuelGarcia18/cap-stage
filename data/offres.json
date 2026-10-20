@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:29:05Z",
+ "updated": "2026-10-20T11:05:22Z",
  "errors": {
   "Thales": "KeyError: 'externalPath'"
  },
@@ -139,37 +139,114 @@
  ],
  "offers": [
   {
-   "id": "6434a0fd1e20",
+   "id": "c9746f8eab2b",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-19T12:29:05Z",
-   "title": "Werkstudent Software development (d/f/m)",
-   "city": "München Area",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "Werkstudent (m/w/d) Personal",
+   "city": "Nordenham",
    "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Werkstudent-Software-development--d-f-m-_JR10450258"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nordenham/Praktikant--m-w-d--in-der-Personalabteilung-am-Standort-Nordenham_JR10386648"
   },
   {
-   "id": "4d145d29f935",
+   "id": "0bb269f82a34",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-19T12:29:05Z",
-   "title": "Internship - DMZ",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "Internship - DCC Automation",
    "city": "Bangalore Area",
    "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DMZ_JR10448613"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-Automation_JR10449207"
   },
   {
-   "id": "c44b940560fa",
+   "id": "6c7f7c719908",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-19T12:29:05Z",
-   "title": "Master Thesis within Logistics and Supply Chain Study for Helicopter Engines",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Master-Thesis-within-Logistics-and-Supply-Chain-Study-for-Helicopter-Engines_JR10447337"
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "ACOLS12 Intern",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS12-Intern_JR10451568"
+  },
+  {
+   "id": "64b7cc1d8fcf",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "On-the-job Trainee (Finance)",
+   "city": "Pasay City",
+   "country": "Philippines",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Pasay-City/On-the-job-Trainee--Finance-_JR10436689"
+  },
+  {
+   "id": "f191e40a84d7",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Subsystems Design Modeling Internship - Linthicum MD",
+   "city": "United States-Maryland-Linthicum",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Subsystems-Design-Modeling-Internship---Linthicum-MD_R10256697"
+  },
+  {
+   "id": "d01068d7b251",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Mechanical Propulsion Engineer Internship - Dulles VA",
+   "city": "United States-Virginia-Dulles",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657"
+  },
+  {
+   "id": "53cb3d3a2f5a",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA",
+   "city": "United States-Maryland-Baltimore",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Supply-Chain-Intern---HYBRID-Baltimore-MD-Redondo-Beach-CA_R10256597-1"
+  },
+  {
+   "id": "8ddd90a47c9a",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Intern - Survivability Engineer",
+   "city": "United States-California-Palmdale",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern---Survivability-Engineer_R10256592"
+  },
+  {
+   "id": "3c45a19c0706",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Global Supply Chain Intern - Elkridge MD",
+   "city": "United States-Maryland-Linthicum",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Supply-Chain-Intern---Elkridge-MD_R10256567"
+  },
+  {
+   "id": "3d3f78381f45",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-20T11:05:22Z",
+   "title": "2027 Software Engineer Intern - Linthicum Maryland",
+   "city": "United States-Maryland-Linthicum",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
   },
   {
    "id": "71b3c56ecd65",
@@ -181,17 +258,6 @@
    "city": "United States-Utah-Roy",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223"
-  },
-  {
-   "id": "76544e856dfa",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-19T09:27:24Z",
-   "title": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
-   "city": "München Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016"
   },
   {
    "id": "2cd0be6e6e8f",
@@ -271,28 +337,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
   },
   {
-   "id": "d80cc0b7a417",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-17T10:18:38Z",
-   "title": "2027 Intern - Guidance Navigation and Control Engineer",
-   "city": "United States-California-San Diego",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435"
-  },
-  {
-   "id": "9e29d8a3c307",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-17T10:18:38Z",
-   "title": "2027 Materials/Chemical Engineer Intern - Baltimore MD",
-   "city": "United States-Maryland-Baltimore",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386"
-  },
-  {
    "id": "8f450c27ab2b",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -335,39 +379,6 @@
    "city": "United States-Virginia-Dulles",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Dulles-VA---Baltimore-MD-_R10256270"
-  },
-  {
-   "id": "5b8874067248",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T10:57:07Z",
-   "title": "2027 Technical Writer Intern - Cape Canaveral FL",
-   "city": "United States-Florida-Cape Canaveral",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219"
-  },
-  {
-   "id": "66079fefcde7",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T10:57:07Z",
-   "title": "2027 Mechanical Analysis Intern - Dulles VA",
-   "city": "United States-Virginia-Dulles",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105"
-  },
-  {
-   "id": "c9e265227534",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T10:57:07Z",
-   "title": "2027 Program Management Intern - Rocket Center WV",
-   "city": "United States-West Virginia-Rocket Center",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10256207-1"
   },
   {
    "id": "536153d3b075",
