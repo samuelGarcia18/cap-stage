@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:21:46Z",
+ "updated": "2026-10-22T11:21:25Z",
  "errors": {},
  "manual": [
   {
@@ -137,6 +137,182 @@
  ],
  "offers": [
   {
+   "id": "2f6bf0ea3f65",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Werkstudent (d/m/w) im Bereich der Gebäudeinstandhaltung Hochbau",
+   "city": "Bremen Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Werkstudent--d-m-w--im-Bereich-der-Gebudeinstandhaltung-Hochbau_JR10440097"
+  },
+  {
+   "id": "af8c79952a00",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Prácticas en Desarrollo de Software y Automatización con IA",
+   "city": "Madrid Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/Prcticas-en-Desarrollo-de-Software-y-Automatizacin-con-IA_JR10452499"
+  },
+  {
+   "id": "5d49ae95f61b",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Internship A350 Freighter Chief Engineering (d/f/m)",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship-A350-Freighter-Chief-Engineering--d-f-m-_JR10450367"
+  },
+  {
+   "id": "e1d4b7d3bf96",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Paint shop Quality Intern",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Paint-shop-Quality-Intern_JR10452231"
+  },
+  {
+   "id": "53e66d92c3fa",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Intern",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Intern_JR10451567"
+  },
+  {
+   "id": "b2c74e912e0a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "ACOLS13 INTERN",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS13-INTERN_JR10451895"
+  },
+  {
+   "id": "166a5408f8bb",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Praktikum im Einkauf \"Equipment & Commodities\" (d/m/w))",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum-im-Einkauf--Equipment---Commodities---d-m-w--_JR10448250"
+  },
+  {
+   "id": "6f51632fd531",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "Internship/graduation assignment - VSM Portal",
+   "city": "Hengelo",
+   "country": "Pays-Bas",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Internship-graduation-assignment---VSM-Portal_R0345542"
+  },
+  {
+   "id": "8e96a46af4fa",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA",
+   "city": "United States-California-Redondo Beach",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211"
+  },
+  {
+   "id": "7fbd29872c12",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Electrical Engineer Intern - Redondo Beach CA",
+   "city": "United States-California-Redondo Beach",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Redondo-Beach-CA_R10257204"
+  },
+  {
+   "id": "3e56613140ba",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA",
+   "city": "United States-California-Commerce",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184"
+  },
+  {
+   "id": "45b296a5690a",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Structural Engineer Intern - San Diego CA",
+   "city": "United States-California-San Diego",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1"
+  },
+  {
+   "id": "53f603beb281",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Materials and Process Engineering Intern - San Diego CA",
+   "city": "United States-California-San Diego",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Materials-and-Process-Engineering-Intern---San-Diego-CA_R10256955"
+  },
+  {
+   "id": "5f2cbd914ccb",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Business Management Intern - Radford VA",
+   "city": "United States-Virginia-Radford",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Management-Intern---Radford-VA_R10253742"
+  },
+  {
+   "id": "bac9918125cd",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Software Engineering Intern - Roy UT",
+   "city": "United States-Utah-Roy",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
+  },
+  {
+   "id": "d781e5182f89",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-22T11:21:25Z",
+   "title": "2027 Graduate and Placement Opportunities",
+   "city": "United Kingdom-New Malden",
+   "country": "Royaume-Uni",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/XMLNAME-2027-Graduate-and-Placement-Opportunities_R10248651"
+  },
+  {
    "id": "9e8c08f08e15",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -212,17 +388,6 @@
    "city": "United States-Virginia-New Church",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585"
-  },
-  {
-   "id": "ab8634dae998",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-21T11:21:46Z",
-   "title": "Intern Business Management",
-   "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10251454"
   },
   {
    "id": "fb5975ce4058",
@@ -333,17 +498,6 @@
    "city": "Donauwörth",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant--m-w-d--im-Bereich-Kompetenzmanagement-und-Entwicklung-des-Ausbildungsangebots_JR10442953"
-  },
-  {
-   "id": "2e4560d1e920",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-17T10:18:38Z",
-   "title": "Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager",
-   "city": "United States-California-Manhattan Beach",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522"
   },
   {
    "id": "fc81475dd344",
@@ -632,17 +786,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum-Abschlussarbeit--Softwareentwicklung-in-einer-3D-Simulationsengine_JR10434041"
   },
   {
-   "id": "e4f425d28251",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikanten (d/m/w) im Bereich Prozessoptimierung und Technologien Eurofighter",
-   "city": "Manching",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Praktikanten--d-m-w--im-Bereich-Prozessoptimierung-und-Technologien-Eurofighter_JR10437440"
-  },
-  {
    "id": "2d5ccba9c23f",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -674,17 +817,6 @@
    "city": "Donauwörth",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/IT-Digital-Workplace-Internship---Workspace-Operation-Specialist-Support--d-f-m-_JR10418211-1"
-  },
-  {
-   "id": "0add85be10ac",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikant (m/w/d) in der Ersatzteil Koordination",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant--m-w-d--in-der-Ersatzteil-Koordination_JR10388096"
   },
   {
    "id": "d7f0a4d55cec",
@@ -973,17 +1105,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Talent-Acquisition-Intern--Jan-2027-intake-_R0339956"
   },
   {
-   "id": "3414a28876f5",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Internship Procurement",
-   "city": "Hengelo",
-   "country": "Pays-Bas",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Internship-Procurement_R0326204"
-  },
-  {
    "id": "68163b1f5943",
    "company": "Thales",
    "sector": "Défense",
@@ -1004,17 +1125,6 @@
    "city": "Hengelo",
    "country": "Pays-Bas",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Internship-HSE--Health--Safety---Environment-_R0330671"
-  },
-  {
-   "id": "12c5a19eeb3f",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Internship-/graduation assignment - HBO/WO - Gunstream",
-   "city": "Hengelo",
-   "country": "Pays-Bas",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Internship--graduation-assignment---HBO-WO---Gunstream_R0313445"
   },
   {
    "id": "cbbf5fa02369",
@@ -1664,28 +1774,6 @@
    "city": "United States-California-Manhattan Beach",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708"
-  },
-  {
-   "id": "815fe4a7ceae",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Industrial Placement - Project Manager",
-   "city": "United Kingdom-Cheltenham",
-   "country": "Royaume-Uni",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Industrial-Placement---Project-Manager_R10251091"
-  },
-  {
-   "id": "f332a4ad4da0",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Industrial Placement - Control Systems Engineer",
-   "city": "United Kingdom-New Malden",
-   "country": "Royaume-Uni",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Industrial-Placement---Control-Systems-Engineer_R10251092"
   },
   {
    "id": "82ec5295e71c",
