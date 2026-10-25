@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:29:55Z",
+ "updated": "2026-10-25T10:56:21Z",
  "errors": {},
  "manual": [
   {
@@ -489,6 +489,17 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Procurement-Manager-Placement--12-months-_JR10424560"
   },
   {
+   "id": "6d81b4b6abf5",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-24T10:29:55Z",
+   "title": "Export Control Placement (12 months)",
+   "city": "Portsmouth",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
+  },
+  {
    "id": "d7a5523dc245",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -522,17 +533,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Site-Operations-Placement--12-months-_JR10431982"
   },
   {
-   "id": "6d81b4b6abf5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Export Control Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
-  },
-  {
    "id": "2ab634a0e76a",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -564,17 +564,6 @@
    "city": "Buenos Aires",
    "country": "Argentina",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Buenos-Aires/Technical-Consultant-Trainee_R0330983"
-  },
-  {
-   "id": "fb951c42efa3",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-23T11:11:47Z",
-   "title": "2027 Systems Engineer Intern - Cape Canaveral FL",
-   "city": "United States-Florida-Cape Canaveral",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
   },
   {
    "id": "c851aec57dc0",
@@ -621,17 +610,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Business-Management-Intern_R10257339"
   },
   {
-   "id": "217d115f58dd",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-23T11:11:47Z",
-   "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
-   "city": "United States-Texas-San Antonio",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
-  },
-  {
    "id": "166a5408f8bb",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -674,39 +652,6 @@
    "city": "Stuttgart Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Entwicklung-von-Kommunikationsmodulen-im-Bereich-Aktive-Antennen---d-m-w-_JR10441617-1"
-  },
-  {
-   "id": "242e0caa2ebc",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-21T11:21:46Z",
-   "title": "Electrical Engineering CO-OP",
-   "city": "Mill Bay - Squl’ew'",
-   "country": "Canada",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/Electrical-Engineering-CO-OP_R0343278-1"
-  },
-  {
-   "id": "93e55b9c811a",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-21T11:21:46Z",
-   "title": "2027 Engineering Intern (ME/EE) -  Wallops VA",
-   "city": "United States-Virginia-New Church",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585"
-  },
-  {
-   "id": "fb5975ce4058",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-21T11:21:46Z",
-   "title": "2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ",
-   "city": "United States-Utah-Corinne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661"
   },
   {
    "id": "64b7cc1d8fcf",
