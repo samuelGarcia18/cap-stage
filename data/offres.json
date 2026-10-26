@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:56:21Z",
+ "updated": "2026-10-26T12:27:23Z",
  "errors": {},
  "manual": [
   {
@@ -136,6 +136,72 @@
   }
  ],
  "offers": [
+  {
+   "id": "7ff0f7f26645",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "Praktikum im Bereich \"Power Supply Entwicklung für Raumfahrtanwendungen\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum-im-Bereich--Power-Supply-Entwicklung-fr-Raumfahrtanwendungen---d-m-w-_JR10448238-1"
+  },
+  {
+   "id": "a0fbb6ee9e27",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "Praktikum \"Entwurf eines analogen Power Limiters für robuste Ka-Band HF-Systeme in der Raumfahrt \" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Entwurf-eines-analogen-Power-Limiters-fr-robuste-Ka-Band-HF-Systeme-in-der-Raumfahrt----d-m-w-_JR10447649-1"
+  },
+  {
+   "id": "bce99e5216ea",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "IT Support & Systems Administration Trainee",
+   "city": "Madrid Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/IT-Support---Systems-Administration-Trainee_JR10452968"
+  },
+  {
+   "id": "0249ebdcb2aa",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
+   "city": "Wichita, KS",
+   "country": "United States of America",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10433021"
+  },
+  {
+   "id": "5dc1b53e3e23",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
+   "city": "Mobile Area, AL",
+   "country": "United States of America",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173"
+  },
+  {
+   "id": "6353d7280480",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-26T12:27:23Z",
+   "title": "Werkstudent im Bereich Mechanical Engineering (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Werkstudent-im-Bereich-Mechanical-Engineering--d-m-w-_JR10446070"
+  },
   {
    "id": "03d8fa49e5f3",
    "company": "Airbus",
@@ -489,17 +555,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Procurement-Manager-Placement--12-months-_JR10424560"
   },
   {
-   "id": "6d81b4b6abf5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Export Control Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
-  },
-  {
    "id": "d7a5523dc245",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -533,15 +588,15 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Site-Operations-Placement--12-months-_JR10431982"
   },
   {
-   "id": "2ab634a0e76a",
+   "id": "6d81b4b6abf5",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Human Resources Placement (12.5 months)",
-   "city": "Broughton",
+   "title": "Export Control Placement (12 months)",
+   "city": "Portsmouth",
    "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Human-Resources-Placement--125-months-_JR10429089"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
   },
   {
    "id": "0477329ff1a7",
@@ -575,17 +630,6 @@
    "city": "United States-Virginia-Dulles",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
-  },
-  {
-   "id": "aca128f4d8a4",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-23T11:11:47Z",
-   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
-   "city": "United States-Florida-Tampa",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
   },
   {
    "id": "81f0c4b90819",
@@ -632,17 +676,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Internship-graduation-assignment---VSM-Portal_R0345542"
   },
   {
-   "id": "5f2cbd914ccb",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-22T11:21:25Z",
-   "title": "2027 Business Management Intern - Radford VA",
-   "city": "United States-Virginia-Radford",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Management-Intern---Radford-VA_R10253742"
-  },
-  {
    "id": "9e8c08f08e15",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -663,17 +696,6 @@
    "city": "Pasay City",
    "country": "Philippines",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Pasay-City/On-the-job-Trainee--Finance-_JR10436689"
-  },
-  {
-   "id": "3d3f78381f45",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-20T11:05:22Z",
-   "title": "2027 Software Engineer Intern - Linthicum Maryland",
-   "city": "United States-Maryland-Linthicum",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
   },
   {
    "id": "2cd0be6e6e8f",
@@ -718,17 +740,6 @@
    "city": "Noida Berger Tower",
    "country": "Inde",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Noida-Berger-Tower/Engineering-Support-Intern_R0344129"
-  },
-  {
-   "id": "625caff6e46f",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-14T11:24:19Z",
-   "title": "Customer Front-Office Representative Intern",
-   "city": "Beijing",
-   "country": "China",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Beijing/Customer-Front-Office-Representative-Intern_R0342427-1"
   },
   {
    "id": "791e04e1b34d",
@@ -808,6 +819,17 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/IS-IT-Engineer-Intern--Hybrid-_R0341794-1"
   },
   {
+   "id": "7b04d1502964",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-08T11:44:00Z",
+   "title": "Praktikum \"Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-nchste-Generation-TT-C-Transpondern---d-m-w-_JR10432660-1"
+  },
+  {
    "id": "57f43707c5d1",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -861,17 +883,6 @@
    "city": "Hamburg Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Praktikant--d-m-w--im-Bereich-A320-FAL-HAM-Transformation---Ramp-up_JR10437028"
-  },
-  {
-   "id": "7b04d1502964",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikum \"Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern\" (d/m/w)",
-   "city": "Stuttgart Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-nchste-Generation-TT-C-Transpondern---d-m-w-_JR10432660-1"
   },
   {
    "id": "41ae6e9c9d47",
@@ -1004,17 +1015,6 @@
    "city": "Madrid",
    "country": "Espagne",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Intern-Trainee-DevOp_R0336361-1"
-  },
-  {
-   "id": "561a87a938ba",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "NAVAIDS & AVIONICS INTERN",
-   "city": "Madrid",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/NAVAIDS---AVIONICS-INTERN_R0335543-1"
   },
   {
    "id": "3690272b470c",
@@ -1510,28 +1510,6 @@
    "city": "GBR - Bristol, UK",
    "country": "Royaume-Uni",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025"
-  },
-  {
-   "id": "468611c03988",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) - Supply Chain",
-   "city": "USA - Everett, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1"
-  },
-  {
-   "id": "614af1a5a852",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Boeing Summer 2027 Internship Program (Paid) - Methods Process Analyst",
-   "city": "USA - Seattle, WA",
-   "country": "United States of America",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Methods-Process-Analyst_JR2026519532-1"
   },
   {
    "id": "1f8e0bbf36d5",
