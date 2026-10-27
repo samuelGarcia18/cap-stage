@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:27:23Z",
+ "updated": "2026-10-27T11:46:04Z",
  "errors": {},
  "manual": [
   {
@@ -137,6 +137,94 @@
  ],
  "offers": [
   {
+   "id": "2f6bf0ea3f65",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "Werkstudent (d/m/w) im Bereich der Gebäudeinstandhaltung Hochbau",
+   "city": "Bremen Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Werkstudent--d-m-w--im-Bereich-der-Gebudeinstandhaltung-Hochbau_JR10440097"
+  },
+  {
+   "id": "857a25113af1",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "ACOQ13 intern",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOQ13-intern_JR10453516"
+  },
+  {
+   "id": "19eb23cc7544",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "People & Workplace Intern",
+   "city": "Beijing Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/People---Workplace-Intern_JR10453492"
+  },
+  {
+   "id": "cafa998bfd1f",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "intern of Quality Ops Line 2",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/intern-of-Quality-Ops-Line-2_JR10453230"
+  },
+  {
+   "id": "a58e461f8cb4",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "Talent Acquisition Intern (Jan 2027 intake)",
+   "city": "SINGAPORE",
+   "country": "Singapour",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Talent-Acquisition-Intern--Jan-2027-intake-_R0339956"
+  },
+  {
+   "id": "7fa4310a686c",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "2027 Software Engineering Intern - Beavercreek OH",
+   "city": "United States-Ohio-Beavercreek",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656"
+  },
+  {
+   "id": "8b90548b0335",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "2027 Mechanical Engineering Intern - Clearfield UT",
+   "city": "United States-Utah-Clearfield",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1"
+  },
+  {
+   "id": "6f60950d8294",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-10-27T11:46:04Z",
+   "title": "2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA",
+   "city": "United States-Maryland-Baltimore",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Supply-Chain-Intern---HYBRID-Baltimore-MD-Redondo-Beach-CA_R10257568-1"
+  },
+  {
    "id": "7ff0f7f26645",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -168,39 +256,6 @@
    "city": "Madrid Area",
    "country": "Espagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/IT-Support---Systems-Administration-Trainee_JR10452968"
-  },
-  {
-   "id": "0249ebdcb2aa",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-26T12:27:23Z",
-   "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
-   "city": "Wichita, KS",
-   "country": "United States of America",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10433021"
-  },
-  {
-   "id": "5dc1b53e3e23",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-26T12:27:23Z",
-   "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
-   "city": "Mobile Area, AL",
-   "country": "United States of America",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173"
-  },
-  {
-   "id": "6353d7280480",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-26T12:27:23Z",
-   "title": "Werkstudent im Bereich Mechanical Engineering (d/m/w)",
-   "city": "Stuttgart Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Werkstudent-im-Bereich-Mechanical-Engineering--d-m-w-_JR10446070"
   },
   {
    "id": "03d8fa49e5f3",
@@ -500,105 +555,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Supply-Chain-Space-Systems-Placement--12-months-_JR10424559"
   },
   {
-   "id": "d99ff6fd649c",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Cross Program Industrial Manager Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Cross-Program-Industrial-Manager-Placement--12-months-_JR10424162"
-  },
-  {
-   "id": "6e68b7c455fc",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Innovation Management Placement (12 months)",
-   "city": "Stevenage",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Innovation-Management-Placement--12-months-_JR10424565"
-  },
-  {
-   "id": "dd88ae99025e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Project Industrial Management Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Project-Industrial-Management-Placement--12-months-_JR10427904"
-  },
-  {
-   "id": "fd399d9f5c88",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Human Resources Early Careers Placement (12.5 months)",
-   "city": "Filton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Human-Resources-Early-Careers-Placement--125-months-_JR10431210"
-  },
-  {
-   "id": "45f7df87382c",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Procurement Manager Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Procurement-Manager-Placement--12-months-_JR10424560"
-  },
-  {
-   "id": "d7a5523dc245",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Plant Support Engineer Stevenage Placement (13 months)",
-   "city": "Stevenage",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Plant-Support-Engineer-Stevenage-Placement--13-months-_JR10428921"
-  },
-  {
-   "id": "3b34184deb9a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Enablement & Project Support Placement (12.5 months)",
-   "city": "Broughton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Enablement---Project-Support-Placement--125-months-_JR10430449"
-  },
-  {
-   "id": "d44082cd025b",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Site Operations Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Site-Operations-Placement--12-months-_JR10431982"
-  },
-  {
-   "id": "6d81b4b6abf5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-24T10:29:55Z",
-   "title": "Export Control Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
-  },
-  {
    "id": "0477329ff1a7",
    "company": "Thales",
    "sector": "Défense",
@@ -619,17 +575,6 @@
    "city": "Buenos Aires",
    "country": "Argentina",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Buenos-Aires/Technical-Consultant-Trainee_R0330983"
-  },
-  {
-   "id": "c851aec57dc0",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-23T11:11:47Z",
-   "title": "2027 Systems Engineering Internship (AI Experience) - Dulles VA",
-   "city": "United States-Virginia-Dulles",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
   },
   {
    "id": "81f0c4b90819",
@@ -718,17 +663,6 @@
    "city": "SINGAPORE",
    "country": "Singapour",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/HR-Automation-Intern_R0344795"
-  },
-  {
-   "id": "d6f8be80054c",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-16T10:57:07Z",
-   "title": "2027 Engineering Internship (Dulles VA / Baltimore MD)",
-   "city": "United States-Virginia-Dulles",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Dulles-VA---Baltimore-MD-_R10256270"
   },
   {
    "id": "a5995180b020",
@@ -907,17 +841,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Projektmanagement-Entwicklung--zivile-Hubschrauber---d-m-w-_JR10424732"
   },
   {
-   "id": "e9f19edb7644",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikant Talent Acquisition (d/m/w)",
-   "city": "München Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Praktikant-Talent-Acquisition--d-m-w-_JR10433599"
-  },
-  {
    "id": "5bf79783559b",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -960,17 +883,6 @@
    "city": "Noida",
    "country": "Inde",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Intern_R0342443"
-  },
-  {
-   "id": "bff6679604e3",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Finance Intern",
-   "city": "Barcelona",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Barcelona/Finance-Intern_R0336211-1"
   },
   {
    "id": "25971548ffc5",
@@ -1158,17 +1070,6 @@
    "city": "Singapore",
    "country": "Singapour",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158"
-  },
-  {
-   "id": "ff152857acdd",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Talent Acquisition Intern (Jan 2027 intake)",
-   "city": "Singapore",
-   "country": "Singapour",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Talent-Acquisition-Intern--Jan-2027-intake-_R0339956"
   },
   {
    "id": "68163b1f5943",
