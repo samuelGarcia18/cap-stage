@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:24:20Z",
+ "updated": "2026-10-30T12:20:46Z",
  "errors": {},
  "manual": [
   {
@@ -24,7 +24,7 @@
    "name": "KNDS",
    "sector": "Défense",
    "url": "https://www.knds.de/en/career/career-at-knds/internships-bachelors-studies",
-   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+   "why": "page inaccessible (RemoteDisconnected)"
   },
   {
    "name": "MBDA",
@@ -137,15 +137,15 @@
  ],
  "offers": [
   {
-   "id": "9a2cc73e2a8f",
+   "id": "e212c2f8c110",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Master Thesis (d/f/m) \"Materials & Processes characterization for future aircraft\"",
-   "city": "Bremen Area",
+   "first_seen": "2026-10-30T12:20:46Z",
+   "title": "Praktikum im Bereich Zoll (m/w/d)",
+   "city": "Donauwörth",
    "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Master-Thesis--d-f-m---Materials---Processes-characterization-for-future-aircraft-_JR10440901"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Zoll--m-w-d-_JR10397629"
   },
   {
    "id": "235a55dd7e97",
@@ -181,70 +181,15 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374"
   },
   {
-   "id": "7e9cff946cd7",
+   "id": "9a2cc73e2a8f",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Technical Data Analyst Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384"
-  },
-  {
-   "id": "cf7ec931b786",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Intern - Maintenance Engineering & Services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449495"
-  },
-  {
-   "id": "6a28aeaa6d92",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Internship - Technical Data Support & Services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data-Support---Services_JR10449171"
-  },
-  {
-   "id": "7946a45be29a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "FTM Intern",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390"
-  },
-  {
-   "id": "15e501aac2ba",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Internship- FTM MOC",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
-  },
-  {
-   "id": "0eb7623691e7",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Internship - Technical Data",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449537"
+   "title": "Master Thesis (d/f/m) \"Materials & Processes characterization for future aircraft\"",
+   "city": "Bremen Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Master-Thesis--d-f-m---Materials---Processes-characterization-for-future-aircraft-_JR10440901"
   },
   {
    "id": "245f3ae51e11",
@@ -344,17 +289,6 @@
    "city": "United States-Utah-Roy",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258248"
-  },
-  {
-   "id": "d46a3005f5f6",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-29T12:29:10Z",
-   "title": "Werkstudent (d/m/w) Projektmanagement Flügelausrüstung",
-   "city": "Bremen Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Werkstudent--d-m-w--Projektmanagement-Flgelausrstung_JR10451256"
   },
   {
    "id": "0ce1cf3738e6",
@@ -938,17 +872,6 @@
    "city": "Stuttgart Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-nchste-Generation-TT-C-Transpondern---d-m-w-_JR10432660-1"
-  },
-  {
-   "id": "57f43707c5d1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikum (d/m/w) im Bereich Produktion Faserverbund/Composites",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum--d-m-w--im-Bereich-Produktion-Faserverbund-Composites_JR10424252"
   },
   {
    "id": "88cce7631ba5",
