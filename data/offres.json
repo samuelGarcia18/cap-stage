@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:51:16Z",
+ "updated": "2026-11-01T12:50:43Z",
  "errors": {},
  "manual": [
   {
@@ -42,7 +42,7 @@
    "name": "Leonardo",
    "sector": "Hélicoptères",
    "url": "https://www.leonardo.com/en/careers",
-   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+   "why": "page inaccessible (RemoteDisconnected)"
   },
   {
    "name": "Rheinmetall",
@@ -269,28 +269,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Zoll--m-w-d-_JR10397629"
   },
   {
-   "id": "235a55dd7e97",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "VIE 2027- External Communications Advisor (m/f)",
-   "city": "Bankstown",
-   "country": "Australie",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bankstown/VIE-2027--External-Communications-Advisor--m-f-_JR10452755"
-  },
-  {
-   "id": "9a2cc73e2a8f",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "Master Thesis (d/f/m) \"Materials & Processes characterization for future aircraft\"",
-   "city": "Bremen Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Master-Thesis--d-f-m---Materials---Processes-characterization-for-future-aircraft-_JR10440901"
-  },
-  {
    "id": "d7bc04d80fe6",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -311,17 +289,6 @@
    "city": "United States-California-Manhattan Beach",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821"
-  },
-  {
-   "id": "0cc635ca5c3d",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T08:24:20Z",
-   "title": "2027 Systems Engineering Intern - Boulder CO",
-   "city": "United States-Colorado-Boulder",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1"
   },
   {
    "id": "55db39654f44",
@@ -388,28 +355,6 @@
    "city": "United States-Utah-Roy",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258248"
-  },
-  {
-   "id": "0ce1cf3738e6",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-29T12:29:10Z",
-   "title": "2027 Structural Engineer Intern - Gilbert AZ",
-   "city": "United States-Arizona-Gilbert",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208"
-  },
-  {
-   "id": "6fe610033a02",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-29T12:29:10Z",
-   "title": "2027 Mechanical Design Intern - Gilbert AZ",
-   "city": "United States-Arizona-Gilbert",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156"
   },
   {
    "id": "2b3e25aaf453",
@@ -489,17 +434,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786"
   },
   {
-   "id": "0496bb1a60dd",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-28T12:19:58Z",
-   "title": "2027 Program Management Intern - Rocket Center WV",
-   "city": "United States-West Virginia-Rocket Center",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10253921"
-  },
-  {
    "id": "1b8f0d3677ed",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -509,17 +443,6 @@
    "city": "United States-Colorado-Aurora",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892"
-  },
-  {
-   "id": "80406b36080f",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-28T12:19:58Z",
-   "title": "2027 Business Management Intern – Cincinnati OH",
-   "city": "United States-Ohio-Cincinnati",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Business-Management-Intern---Cincinnati-OH_R10257818"
   },
   {
    "id": "31c98dc36b82",
@@ -553,17 +476,6 @@
    "city": "United States-Colorado-Boulder",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798"
-  },
-  {
-   "id": "13aec12ba585",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-28T12:19:58Z",
-   "title": "2027 Business Management Intern – Rolling Meadows IL",
-   "city": "United States-Illinois-Rolling Meadows",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Business-Management-Intern---Rolling-Meadows-IL_R10257785"
   },
   {
    "id": "a58e461f8cb4",
