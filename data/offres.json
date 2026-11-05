@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-04T13:56:21Z",
- "errors": {},
+ "updated": "2026-11-05T14:13:27Z",
+ "errors": {
+  "Northrop Grumman": "HTTPError: HTTP Error 520: <none> (connecteur non vérifié : contrôlez host/tenant/site)"
+ },
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -66,7 +68,7 @@
    "name": "RTX (Raytheon, Collins, Pratt & Whitney)",
    "sector": "Défense",
    "url": "https://careers.rtx.com",
-   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+   "why": "page inaccessible (HTTPError)"
   },
   {
    "name": "Rolls-Royce",
@@ -137,6 +139,149 @@
  ],
  "offers": [
   {
+   "id": "c9941c5ba2d0",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Internship in “Manufacturing and Assembly analysis of composite structure” (m/f/d) (Open)",
+   "city": "Stade",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship-in--Manufacturing-and-Assembly-analysis-of-composite-structure---m-f-d---Open-_JR10453740"
+  },
+  {
+   "id": "beb38f219c80",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum im Bereich Installation of Mechanical Equipment & Fuel (d/m/w)",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Installation-of-Mechanical-Equipment---Fuel--d-m-w-_JR10453529"
+  },
+  {
+   "id": "34d00917af0c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Werkstudent im Bereich \"Projektmanagement / PMO\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Werkstudent-im-Bereich--Projektmanagement---PMO---d-m-w-_JR10453423"
+  },
+  {
+   "id": "85bce201a386",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum im Operativen Einkauf für Elektronik (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum-im-Operativen-Einkauf-fr-Elektronik--d-m-w-_JR10411843"
+  },
+  {
+   "id": "925679175a89",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum \"Automatisierung eines Messplatzes für die neueste Generation von Modulatoren\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-neueste-Generation-von-Modulatoren---d-m-w-_JR10454194"
+  },
+  {
+   "id": "eb2c9c0798a8",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum \"Entwicklung und Charakterisierung von Hochfrequenz- und Digitalschaltungen\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Entwicklung-und-Charakterisierung-von-Hochfrequenz--und-Digitalschaltungen---d-m-w-_JR10454743-1"
+  },
+  {
+   "id": "9922badf6b17",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Internship in Satellite On-Board Data Handling: Integration of Data Handling Unit (d/f/m)",
+   "city": "Immenstaad am Bodensee",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-in-Satellite-On-Board-Data-Handling--Integration-of-Data-Handling-Unit--d-f-m-_JR10454434"
+  },
+  {
+   "id": "76b2b2812c52",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Internship in Satellite Radio Frequency Communications: Tool Development/Improvement (d/f/m)",
+   "city": "Immenstaad am Bodensee",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-in-Satellite-Radio-Frequency-Communications--Tool-Development-Improvement--d-f-m-_JR10454431"
+  },
+  {
+   "id": "718431a8d832",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum/Abschlussarbeit \"KI‑gestützte Auswertung  Prüfbefund‑Datenbank\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum-Abschlussarbeit--KI-gesttzte-Auswertung--Prfbefund-Datenbank---d-m-w-_JR10453113"
+  },
+  {
+   "id": "522986a43bc9",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Praktikum (d/m/w) Projektmanagement Ground Support Systems & Services",
+   "city": "Immenstaad am Bodensee",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--Projektmanagement-Ground-Support-Systems---Services_JR10454642"
+  },
+  {
+   "id": "aa575e755b6a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Internship | Development of Tooling Concepts for Rapid Preforming Technologies",
+   "city": "Stade",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship---Development-of-Tooling-Concepts-for-Rapid-Preforming-Technologies_JR10451609"
+  },
+  {
+   "id": "c74d0d7c72ea",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Analista de Comercio Exterior (Trainee)",
+   "city": "Mexico ADS",
+   "country": "Mexique",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-ADS/Analista-de-Comercio-Exterior--Trainee-_JR10454748"
+  },
+  {
+   "id": "0a958439196f",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-05T14:13:27Z",
+   "title": "Project Planning & Scheduling Co-op Student or intern",
+   "city": "Ottawa",
+   "country": "Canada",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Project-Planning---Scheduling-Co-op-Student_R0343079"
+  },
+  {
    "id": "245706516e05",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -146,28 +291,6 @@
    "city": "Immenstaad am Bodensee",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--im-Bereich-Design-und-Konstruktion_JR10454500"
-  },
-  {
-   "id": "4b6acf96cae9",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-04T13:56:21Z",
-   "title": "Internship- Structures",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142"
-  },
-  {
-   "id": "9302e839fcf1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-04T13:56:21Z",
-   "title": "Short-term Internship - Finance Services & Transformation",
-   "city": "Herndon Area, VA",
-   "country": "United States of America",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Short-term-Internship---Finance-Services---Transformation_JR10449745"
   },
   {
    "id": "b28398e917ac",
@@ -192,17 +315,6 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284"
   },
   {
-   "id": "c9260c91c021",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-04T13:56:21Z",
-   "title": "Mandatory Bachelor/Master Thesis - Future Flight Operations Research m/f/d",
-   "city": "DEU - Neu-Isenburg, Germany",
-   "country": "Allemagne",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Bachelor-Master-Thesis---Future-Flight-Operations-Research-m-f-d_JR2026527826"
-  },
-  {
    "id": "ac59d714a09e",
    "company": "Boeing",
    "sector": "Aéronautique",
@@ -212,6 +324,17 @@
    "city": "DEU - Neu-Isenburg, Germany",
    "country": "Allemagne",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026527825-1"
+  },
+  {
+   "id": "c9260c91c021",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-04T13:56:21Z",
+   "title": "Mandatory Bachelor/Master Thesis - Future Flight Operations Research m/f/d",
+   "city": "DEU - Neu-Isenburg, Germany",
+   "country": "Allemagne",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Bachelor-Master-Thesis---Future-Flight-Operations-Research-m-f-d_JR2026527826"
   },
   {
    "id": "58b6d9b36396",
@@ -841,17 +964,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum-Abschlussarbeit--Softwareentwicklung-in-einer-3D-Simulationsengine_JR10434041"
   },
   {
-   "id": "9428bb494a78",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "INTERNSHIP + MASTER ON COMPOSITE MATERIALS 2021 - 11th Edition",
-   "city": "",
-   "country": "À préciser",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/INTERNSHIP---MASTER-ON-COMPOSITE-MATERIALS-2021---11th-Edition_JR10069906"
-  },
-  {
    "id": "e13824ffa461",
    "company": "Thales",
    "sector": "Défense",
@@ -861,17 +973,6 @@
    "city": "Noida",
    "country": "Inde",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Intern_R0342443"
-  },
-  {
-   "id": "25971548ffc5",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "DevOps Intern",
-   "city": "Madrid",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/DevOps-Intern_R0336368-1"
   },
   {
    "id": "1ff7b151a91d",
@@ -894,28 +995,6 @@
    "city": "Madrid",
    "country": "Espagne",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Financial-Analyst-Intern_R0335253-1"
-  },
-  {
-   "id": "ead8c85191e5",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Intern Trainee DevOp",
-   "city": "Madrid",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Intern-Trainee-DevOp_R0336361-1"
-  },
-  {
-   "id": "3690272b470c",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Project Engineer Intern",
-   "city": "Madrid",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Project-Engineer-Intern_R0335477-1"
   },
   {
    "id": "b27cabce47de",
@@ -1114,17 +1193,6 @@
    "city": "Gorgonzola",
    "country": "Italie",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Gorgonzola/Software-Developer-Intern--Open-also-to-Protected-Categories--Law-68-99-_R0331969"
-  },
-  {
-   "id": "b39a721af068",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Technical Consultant Trainee",
-   "city": "Bogota",
-   "country": "Colombia",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Bogota/Technical-Consultant-Trainee--Fixed-Term-_R0330987"
   },
   {
    "id": "1f95998351bc",
