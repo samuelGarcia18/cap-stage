@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:30:09Z",
+ "updated": "2026-11-11T13:45:03Z",
  "errors": {},
  "manual": [
   {
@@ -137,6 +137,204 @@
  ],
  "offers": [
   {
+   "id": "f25141c3f4c6",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Praktikum im Bereich A350F & Development Projekts (d/m/w)",
+   "city": "Augsburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Augsburg-Area/Praktikum-im-Bereich-A350F---Development-Projekts--d-m-w-_JR10457386"
+  },
+  {
+   "id": "0dbbc8198692",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Praktikum im Bereich Quality - Final Assembly Line",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Quality---Final-Assembly-Line_JR10433028"
+  },
+  {
+   "id": "bddf712ae467",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "#Discover I 2027-2028 - Digital Transformation & Data Strategy Internship",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028---Digital-Transformation---Data-Strategy_JR10455853"
+  },
+  {
+   "id": "17219df34e57",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "#Discover I 2027-2028 AI Repair Solutions Internship",
+   "city": "Sevilla - Tablada",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556"
+  },
+  {
+   "id": "13b8fa799037",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Praktikant für Generative AI/Agentic AI (d/m/w)",
+   "city": "Ulm Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030"
+  },
+  {
+   "id": "3105b2818cc4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Internship (d/f/m) - Electrical Engineering and Test",
+   "city": "Immenstaad am Bodensee",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m----Electrical-Engineering-and-Test_JR10454974"
+  },
+  {
+   "id": "4dddb76bd152",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "PHD Thesis: Neural Processing Units for Avionics",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/PHD-Thesis--Neural-Processing-Units-for-Avionics_JR10452264"
+  },
+  {
+   "id": "d52e672795f8",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "TechPub Intern",
+   "city": "Bangalore",
+   "country": "Inde",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/TechPub-Intern_R0347993"
+  },
+  {
+   "id": "0a4a0772b234",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer",
+   "city": "Hengelo",
+   "country": "Pays-Bas",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566"
+  },
+  {
+   "id": "fd90a8a8d00d",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist",
+   "city": "Hengelo",
+   "country": "Pays-Bas",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567"
+  },
+  {
+   "id": "fb951c42efa3",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Systems Engineer Intern - Cape Canaveral FL",
+   "city": "United States-Florida-Cape Canaveral",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
+  },
+  {
+   "id": "4214d274dcea",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Optics/Photonic Engineering Intern - Apopka FL",
+   "city": "United States-Florida-Apopka",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049"
+  },
+  {
+   "id": "162cf500ab3e",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Operations Manufacturing Engineering Intern",
+   "city": "United States-Florida-Saint Augustine",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1"
+  },
+  {
+   "id": "31bfd8b4c887",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Electromechanical Engineer Intern - Rolling Meadows IL",
+   "city": "United States-Illinois-Rolling Meadows",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085"
+  },
+  {
+   "id": "4627c8bbc381",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Intern Engineer - Product Support",
+   "city": "United States-Oklahoma-Oklahoma City",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10260078"
+  },
+  {
+   "id": "d26d94cc575c",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Systems Engineer Intern - Dulles VA or McLean VA",
+   "city": "United States-Virginia-Dulles",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857"
+  },
+  {
+   "id": "958b78b82118",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Manufacturing Engineer Intern- Commerce CA",
+   "city": "United States-California-Commerce",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976"
+  },
+  {
+   "id": "b55ac79222c1",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-11T13:45:03Z",
+   "title": "2027 Business Operations Intern - Radford VA",
+   "city": "United States-Virginia-Radford",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Operations-Intern---Radford-VA_R10259949"
+  },
+  {
    "id": "2272a65b9c8c",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -190,28 +388,6 @@
    "city": "Immenstaad am Bodensee",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--im-Bereich-IT-Security---FOSS---Evaluierung-von-Schwachstellenscannern_JR10456724"
-  },
-  {
-   "id": "9521361c9c97",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-10T14:30:09Z",
-   "title": "Internship (d/f/m) within Digital-Twin Spacecraft Engineer",
-   "city": "Immenstaad am Bodensee",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--within-Digital-Twin-Spacecraft-Engineer_JR10455665"
-  },
-  {
-   "id": "ad04abab14a4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-10T14:30:09Z",
-   "title": "ACOLW3 intern",
-   "city": "Tianjin Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLW3-intern_JR10456277"
   },
   {
    "id": "c59f6b672cc9",
@@ -555,28 +731,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Chester-Area/General-Facility-Services-and-Business-Operations-Placement--125-months-_JR10426278"
   },
   {
-   "id": "835ac4eba3ec",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "General Facility Services and Business Operations Filton Placement (12.5 months)",
-   "city": "Bristol Area",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/General-Facility-Services-and-Business-Operations-Placement--125-months-_JR10426281"
-  },
-  {
-   "id": "ff041f7dc99e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Facilities Business Operations Placement (12.5 months)",
-   "city": "Broughton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Facilities-Business-Operations-Placement--125-months-_JR10424227"
-  },
-  {
    "id": "e15b62835927",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -652,17 +806,6 @@
    "city": "Immenstaad am Bodensee",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--Projektmanagement-Ground-Support-Systems---Services_JR10454642"
-  },
-  {
-   "id": "c9941c5ba2d0",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-05T14:13:27Z",
-   "title": "Internship in “Manufacturing and Assembly analysis of composite structure” (m/f/d) (Open)",
-   "city": "Stade",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship-in--Manufacturing-and-Assembly-analysis-of-composite-structure---m-f-d---Open-_JR10453740"
   },
   {
    "id": "c74d0d7c72ea",
@@ -806,17 +949,6 @@
    "city": "Nordenham",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nordenham/Praktikant--m-w-d---Human-Resources_JR10453893"
-  },
-  {
-   "id": "c2e03af61752",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-31T11:51:16Z",
-   "title": "Plant Support Engineer Portsmouth Placement (13 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Plant-Support-Engineer-Portsmouth-Placement--13-months-_JR10428915"
   },
   {
    "id": "32a5d69800b1",
@@ -1301,17 +1433,6 @@
    "city": "Gorgonzola",
    "country": "Italie",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Gorgonzola/AI-Engineer---Internship--Open-also-to-Protected-Categories--Law-68-99-_R0332137"
-  },
-  {
-   "id": "ba378cd1b772",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Werkstudent, internship or Master thesis (m/f/d) within Radar Systems Engineering department in the Domain Surface Radar (SRA)",
-   "city": "DITZINGEN SRA OME",
-   "country": "Allemagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/DITZINGEN-SRA-OME/Werkstudent--internship-or-Master-thesis--m-f-d--within-Radar-Systems-Engineering-department-in-the-Domain-Surface-Radar--SRA-_R0335091"
   },
   {
    "id": "bce54d366fbe",
