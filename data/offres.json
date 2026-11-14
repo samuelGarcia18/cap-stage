@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-13T14:07:39Z",
- "errors": {},
+ "updated": "2026-11-14T13:09:07Z",
+ "errors": {
+  "Boeing": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (connecteur non vérifié : contrôlez host/tenant/site)",
+  "Northrop Grumman": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (connecteur non vérifié : contrôlez host/tenant/site)"
+ },
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -137,6 +140,28 @@
  ],
  "offers": [
   {
+   "id": "d48995dce16a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-14T13:09:07Z",
+   "title": "Stagiaire en Outillages",
+   "city": "Montreal Area",
+   "country": "Canada",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Stagiaire-en-calcul-d-arostructure_JR10458363"
+  },
+  {
+   "id": "7ece867c309c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-14T13:09:07Z",
+   "title": "Supply Chain & Logistics Placement (12.5 months)",
+   "city": "Broughton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Supply-Chain---Logistics-Placement--125-months-_JR10430417"
+  },
+  {
    "id": "ae09eb669c2f",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -192,17 +217,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/DISCOVER-I-2027-2028-INTERNSHIP-Supply-Chain---Quality-Services_JR10456511"
   },
   {
-   "id": "2b173cb04a1b",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Master Thesis in Thermal Control Systems (d/f/m)",
-   "city": "Immenstaad am Bodensee",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Thesis-in-Thermal-Control-Systems--d-f-m-_JR10456797"
-  },
-  {
    "id": "a85ab8222876",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -225,114 +239,15 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangkok-Area/Internship-Student_JR10458161"
   },
   {
-   "id": "87d77e80cbd2",
+   "id": "2b173cb04a1b",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
    "first_seen": "2026-11-13T14:07:39Z",
-   "title": "#Discover I 2027-2028  Internship Cockpit Design and Human Factors Engineering",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--Internship-Cockpit-Design-and-Human-Factors-Engineering_JR10456364"
-  },
-  {
-   "id": "be981d62f6a3",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "DISCOVER I 2027-2028 INTERNSHIP - Materials and Processes Engineer",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/DISCOVER-I-2027-2028-INTERNSHIP---Materials-and-Processes-Engineer_JR10457042"
-  },
-  {
-   "id": "2d4bf0d922a4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "#Discover I 2027-2028  MRO LTA Quality Operations Intern.",
-   "city": "Sevilla - San Pablo",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---San-Pablo/XMLNAME--Discover-I-2027-2028--MRO-LTA-Quality-Operations-Intern_JR10457484"
-  },
-  {
-   "id": "55e19fc7aa12",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "#Discover I 2027-2028 Network and Storage Systems Intern – Mission-Critical Data Integration",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Network-and-Storage-Systems-Intern---Mission-Critical-Data-Integration_JR10457486"
-  },
-  {
-   "id": "6c7f7c719908",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "ACOLS12 Intern",
-   "city": "Tianjin Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS12-Intern_JR10451568"
-  },
-  {
-   "id": "63bdad275cfc",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Training Business Development Intern",
-   "city": "Beijing Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Training-Business-Development-Intern_JR10451251"
-  },
-  {
-   "id": "e18b02f2cb49",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Stagiaire en calcul d'aérostructure",
-   "city": "Montreal Area",
-   "country": "Canada",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Stagiaire-en-calcul-d-arostructure_JR10457982"
-  },
-  {
-   "id": "106a1e58da24",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "VIE 2027 - Dubai - Human Resources Business Partner",
-   "city": "Dubai (Airbus)",
-   "country": "Émirats arabes unis",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dubai-Airbus/VIE-2027---Dubai---Human-Resources-Business-Partner_JR10456863"
-  },
-  {
-   "id": "3a06a20f03c5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Werkstudent (d/m/w) für Procurement Operations Digital Solutions",
-   "city": "Taufkirchen / Ottobrunn",
+   "title": "Master Thesis in Thermal Control Systems (d/f/m)",
+   "city": "Immenstaad am Bodensee",
    "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--fr-Procurement-Operations-Digital-Solutions_JR10456848"
-  },
-  {
-   "id": "20b678e3e771",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Werkstudent im Bereich Strategic Procurement Armament, Electronic Warfare and Drones (d/m/w)",
-   "city": "Manching",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent-im-Bereich-Strategic-Procurement-Armament--Electronic-Warfare-and-Drones--d-m-w-_JR10454185"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Thesis-in-Thermal-Control-Systems--d-f-m-_JR10456797"
   },
   {
    "id": "f759f7f4c3e6",
@@ -828,72 +743,6 @@
    "city": "München Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Intern-within-Simulation-and-Modeling--d-f-m-_JR10454567"
-  },
-  {
-   "id": "6d81b4b6abf5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Export Control Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
-  },
-  {
-   "id": "d44082cd025b",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Site Operations Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Site-Operations-Placement--12-months-_JR10431982"
-  },
-  {
-   "id": "45f7df87382c",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Procurement Manager Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Procurement-Manager-Placement--12-months-_JR10424560"
-  },
-  {
-   "id": "19a444279292",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Facilities Management Placement (12 months)",
-   "city": "Portsmouth",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Facilities-Management-Placement--12-months-_JR10426760"
-  },
-  {
-   "id": "8746e8d0b54e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Project Management Office Placement (13 months)",
-   "city": "Stevenage",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Project-Management-Office-Placement--13-months-_JR10426276"
-  },
-  {
-   "id": "70602b435b41",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Project Management Office Analyst Placement (12 months)",
-   "city": "Stevenage",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Project-Management-Office-Analyst-Placement--12-months-_JR10430717"
   },
   {
    "id": "e15b62835927",
