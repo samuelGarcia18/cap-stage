@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:37:39Z",
+ "updated": "2026-11-16T15:08:37Z",
  "errors": {},
  "manual": [
   {
@@ -66,7 +66,7 @@
    "name": "RTX (Raytheon, Collins, Pratt & Whitney)",
    "sector": "Défense",
    "url": "https://careers.rtx.com",
-   "why": "page inaccessible (HTTPError)"
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
   },
   {
    "name": "Rolls-Royce",
@@ -137,6 +137,83 @@
  ],
  "offers": [
   {
+   "id": "a25630477537",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "#DISCOVER I 2027-2028 Composite Process Engineer Intern",
+   "city": "El Puerto Sta Maria",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/El-Puerto-Sta-Maria/XMLNAME--DISCOVER-I-2027-2028-Composite-Process-Engineer-Intern_JR10456446"
+  },
+  {
+   "id": "655147da2bea",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "Werkstudent (d/m/w) im Bereich Projektmanagement High Lift Assembly",
+   "city": "Bremen",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Projektmanagement-High-Lift-Assembly_JR10456282-1"
+  },
+  {
+   "id": "e5b2f914d3bd",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "#DISCOVER I 2027/2028 Internship Support to CDT leadership team",
+   "city": "Cadiz Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Cadiz-Area/XMLNAME--DISCOVER-I-2027-2028-Internship-Support-to-CDT-leadership-team_JR10456470"
+  },
+  {
+   "id": "7ba3b70d5f9b",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "Discover I 2027-2028 Internship Performance, Improvement and Digitalization",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-I-2027-2028-Internship-Performance--Improvement-and-Digitalization_JR10456457"
+  },
+  {
+   "id": "12c6038a7c07",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "#Discover I 2027-2028 Internship Capex planning support",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Internship-Capex-planning-support_JR10456451"
+  },
+  {
+   "id": "e88e26f2b930",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "Intern - Maintenance Engineering & Services",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517"
+  },
+  {
+   "id": "9428bb494a78",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-16T15:08:37Z",
+   "title": "INTERNSHIP + MASTER ON COMPOSITE MATERIALS 2021 - 11th Edition",
+   "city": "",
+   "country": "À préciser",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/INTERNSHIP---MASTER-ON-COMPOSITE-MATERIALS-2021---11th-Edition_JR10069906"
+  },
+  {
    "id": "1be9da45fb9d",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -159,17 +236,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526"
   },
   {
-   "id": "d48995dce16a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-14T13:09:07Z",
-   "title": "Stagiaire en Outillages",
-   "city": "Montreal Area",
-   "country": "Canada",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Stagiaire-en-calcul-d-arostructure_JR10458363"
-  },
-  {
    "id": "7ece867c309c",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -181,61 +247,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Supply-Chain---Logistics-Placement--125-months-_JR10430417"
   },
   {
-   "id": "ae09eb669c2f",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Stress Engineer Intern (f/m)",
-   "city": "Lodz",
-   "country": "Pologne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Lodz/Stress-Engineer-Intern--f-m-_JR10457752"
-  },
-  {
-   "id": "b840489de18a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Internship (d/f/m) within the mission software department",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978"
-  },
-  {
-   "id": "abd36da0789b",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "#Discover I 2027-2028 Generation and Management of AC ICDs using AI Technology Intern",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169"
-  },
-  {
-   "id": "0e31f1916312",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--Embedded-Software-Engineering-for-Weapon-Systems_JR10442671-2"
-  },
-  {
-   "id": "685be00b75f6",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "#DISCOVER I 2027-2028 INTERNSHIP Supply Chain & Quality Services",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/DISCOVER-I-2027-2028-INTERNSHIP-Supply-Chain---Quality-Services_JR10456511"
-  },
-  {
    "id": "a85ab8222876",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -245,28 +256,6 @@
    "city": "Taufkirchen / Ottobrunn",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--im-Bereich-Site-Communications-Ottobrunn_JR10456881-1"
-  },
-  {
-   "id": "c14df7771111",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Internship Student",
-   "city": "Bangkok Area",
-   "country": "Thailand",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangkok-Area/Internship-Student_JR10458161"
-  },
-  {
-   "id": "2b173cb04a1b",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "Master Thesis in Thermal Control Systems (d/f/m)",
-   "city": "Immenstaad am Bodensee",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Thesis-in-Thermal-Control-Systems--d-f-m-_JR10456797"
   },
   {
    "id": "f759f7f4c3e6",
@@ -335,17 +324,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Wafer-Processing-Engineering-Internship---Saint-Charles-MO_R10260401"
   },
   {
-   "id": "50cbb532f93e",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-13T14:07:39Z",
-   "title": "2027 Manufacturing Engineering Intern - Annapolis MD",
-   "city": "United States-Maryland-Annapolis",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385"
-  },
-  {
    "id": "fd399d9f5c88",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -368,28 +346,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Pasay-City/MRO--On-the-Job-Trainee-_JR10455864"
   },
   {
-   "id": "d7d0c9320958",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-12T14:48:01Z",
-   "title": "2027 Electronics Engineering Intern - Elkridge MD",
-   "city": "United States-Maryland-Elkridge",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Electronics-Engineering-Intern---Elkridge-MD_R10260310"
-  },
-  {
-   "id": "8c5c1e7fa56f",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-12T14:48:01Z",
-   "title": "2027 Program Cost and Schedule Control Intern - Northridge CA",
-   "city": "United States-California-Northridge",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Cost-and-Schedule-Control-Intern---Northridge-CA_R10260298"
-  },
-  {
    "id": "f25141c3f4c6",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -399,17 +355,6 @@
    "city": "Augsburg Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Augsburg-Area/Praktikum-im-Bereich-A350F---Development-Projekts--d-m-w-_JR10457386"
-  },
-  {
-   "id": "0dbbc8198692",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-11T13:45:03Z",
-   "title": "Praktikum im Bereich Quality - Final Assembly Line",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Quality---Final-Assembly-Line_JR10433028"
   },
   {
    "id": "d52e672795f8",
@@ -566,17 +511,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/MAKATI/Support-Specialist-Intern_R0346429"
   },
   {
-   "id": "70dc565ad2e8",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-10T14:30:09Z",
-   "title": "PINN Research Intern",
-   "city": "Singapore",
-   "country": "Singapour",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/PINN-Research-Intern_R0343827"
-  },
-  {
    "id": "08e7a8558cdc",
    "company": "Thales",
    "sector": "Défense",
@@ -630,17 +564,6 @@
    "city": "GBR - Hounslow, UK",
    "country": "Royaume-Uni",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Hounslow-UK/Facilities-Management-Intern---Summer-2027_JR2026525476"
-  },
-  {
-   "id": "26c5fcc377d0",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-06T13:54:18Z",
-   "title": "Intern within Simulation and Modeling (d/f/m)",
-   "city": "München Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Intern-within-Simulation-and-Modeling--d-f-m-_JR10454567"
   },
   {
    "id": "beb38f219c80",
@@ -786,28 +709,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Praktikum--d-m-w--im-Cabin-Conformance-Management-Single-Aisle_JR10453540"
   },
   {
-   "id": "bfaea3a502f2",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-02T15:00:34Z",
-   "title": "Praktikant / Abschlussarbeit – KI & Surrogate Modeling (d/m/w)",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant---Abschlussarbeit---KI---Surrogate-Modeling--d-m-w-_JR10453863"
-  },
-  {
-   "id": "a738bd00df2a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-02T15:00:34Z",
-   "title": "Praktikant (d/m/w) Softwareentwicklung und 3D-Design für eine Simulations- und Planungssoftware_Unity",
-   "city": "Immenstaad am Bodensee",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--Softwareentwicklung-und-3D-Design-fr-eine-Simulations--und-Planungssoftware-Unity_JR10453662"
-  },
-  {
    "id": "af96dae1c27e",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -850,17 +751,6 @@
    "city": "Praha",
    "country": "Czechia",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862"
-  },
-  {
-   "id": "e212c2f8c110",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-30T12:20:46Z",
-   "title": "Praktikum im Bereich Zoll (m/w/d)",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikum-im-Bereich-Zoll--m-w-d-_JR10397629"
   },
   {
    "id": "417eda0db0a2",
