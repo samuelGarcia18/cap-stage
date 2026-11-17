@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-16T15:08:37Z",
- "errors": {},
+ "updated": "2026-11-17T15:39:54Z",
+ "errors": {
+  "Boeing": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)",
+  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)"
+ },
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -137,70 +140,169 @@
  ],
  "offers": [
   {
-   "id": "a25630477537",
+   "id": "7532e1eaf0a2",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "#DISCOVER I 2027-2028 Composite Process Engineer Intern",
-   "city": "El Puerto Sta Maria",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#DISCOVER I 2027-2028 INTERNSHIP INDUSTRIAL MAINTENANCE INTERNSHIP",
+   "city": "Getafe Area",
    "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/El-Puerto-Sta-Maria/XMLNAME--DISCOVER-I-2027-2028-Composite-Process-Engineer-Intern_JR10456446"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--DISCOVER-I-2027-2028-INTERNSHIP-INDUSTRIAL-MAINTENANCE-INTERNSHIP_JR10455746"
   },
   {
-   "id": "655147da2bea",
+   "id": "a8065fd0124c",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "Werkstudent (d/m/w) im Bereich Projektmanagement High Lift Assembly",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "Praktikant im Bereich Vehicle Test (Komponententest) (d/m/w)",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant-im-Bereich-Vehicle-Test--Komponententest---d-m-w-_JR10457231"
+  },
+  {
+   "id": "aa7a3ca2bff0",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 MANUFACTURING ENGINEERING HTP Internship",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-MANUFACTURING-ENGINEERING-HTP-Internship_JR10456079"
+  },
+  {
+   "id": "fc80466b05b4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 Talent Acquisition Intern: ESI Team.",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/Early-Careers-para-2027--Programa-Discover-I_JR10458300"
+  },
+  {
+   "id": "37733e5787b7",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 Talent Acquisition Intern",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Talent-Acquisition-Intern_JR10457915"
+  },
+  {
+   "id": "17576e0032f9",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "VIE 2026 - Malaysia - Finance Controller & Digital Transformation (m/f)",
+   "city": "Subang",
+   "country": "Malaysia",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Subang/VIE-2026---Malaysia---Finance-Controller---Digital-Transformation--m-f-_JR10456422"
+  },
+  {
+   "id": "9dc80bdcfdb9",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 MRO Integration Intern",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-MRO-Integration-Intern_JR10457319"
+  },
+  {
+   "id": "9112860388f4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "Werkstudent (d/m/w) in der Produktion: Projektmanagement Flügelausrüstung",
    "city": "Bremen",
    "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Projektmanagement-High-Lift-Assembly_JR10456282-1"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--in-der-Produktion--Projektmanagement-Flgelausrstung_JR10454801"
   },
   {
-   "id": "e5b2f914d3bd",
+   "id": "3c3499756b73",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "#DISCOVER I 2027/2028 Internship Support to CDT leadership team",
-   "city": "Cadiz Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Cadiz-Area/XMLNAME--DISCOVER-I-2027-2028-Internship-Support-to-CDT-leadership-team_JR10456470"
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "Internship (d/f/m) within Project Management in the A320 Family Program",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship--d-f-m--within-Project-Management-in-the-A320-Family-Program_JR10438608"
   },
   {
-   "id": "7ba3b70d5f9b",
+   "id": "20457f904bef",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "Discover I 2027-2028 Internship Performance, Improvement and Digitalization",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#DISCOVER I 2027-2028 Rear Fuselage & Empennage Buyer Intern",
    "city": "Getafe Area",
    "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-I-2027-2028-Internship-Performance--Improvement-and-Digitalization_JR10456457"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--DISCOVER-I-2027-2028-Rear-Fuselage---Empennage-Buyer-Intern_JR10455701"
   },
   {
-   "id": "12c6038a7c07",
+   "id": "21e2eec511e4",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "#Discover I 2027-2028 Internship Capex planning support",
-   "city": "Getafe Area",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#DISCOVER I 2027-2028 Internship Industrial Logistic & Planning & Scheduling & Digital Operations  Cadiz",
+   "city": "El Puerto Sta Maria",
    "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Internship-Capex-planning-support_JR10456451"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/El-Puerto-Sta-Maria/XMLNAME--DISCOVER-I-2027-2028-Internship-Industrial-Logistic---Planning---Scheduling---Digital-Operations--Cadiz_JR10456406"
   },
   {
-   "id": "e88e26f2b930",
+   "id": "d4be5986b231",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-16T15:08:37Z",
-   "title": "Intern - Maintenance Engineering & Services",
-   "city": "Bangalore Area",
-   "country": "Inde",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517"
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 Aerodynamics Intern",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Aerodynamics-Intern_JR10458142"
+  },
+  {
+   "id": "39cbd9e8c92d",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "#Discover I 2027-2028 INTERNSHIP  # Digital Solutions Space Business",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-INTERNSHIP----Digital-Solutions-Space-Business_JR10457883"
+  },
+  {
+   "id": "8aa236890c23",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "Project Buyer Trainee",
+   "city": "Riyadh",
+   "country": "Arabie saoudite",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Riyadh/Project-Buyer-Trainee_JR10458396"
+  },
+  {
+   "id": "eb35a72da6a8",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-17T15:39:54Z",
+   "title": "Research and Innovation Intern",
+   "city": "Ottawa",
+   "country": "Canada",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1"
   },
   {
    "id": "9428bb494a78",
@@ -808,17 +910,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Entwurf-eines-analogen-Power-Limiters-fr-robuste-Ka-Band-HF-Systeme-in-der-Raumfahrt----d-m-w-_JR10447649-1"
   },
   {
-   "id": "bce99e5216ea",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-26T12:27:23Z",
-   "title": "IT Support & Systems Administration Trainee",
-   "city": "Madrid Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/IT-Support---Systems-Administration-Trainee_JR10452968"
-  },
-  {
    "id": "0477329ff1a7",
    "company": "Thales",
    "sector": "Défense",
@@ -1028,17 +1119,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Barcelona/Qual-Meth-tech-INTERN_R0337343-1"
   },
   {
-   "id": "647c5a61a35e",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Talent Acquisition Intern - Tamheer Program",
-   "city": "Riyadh",
-   "country": "Arabie saoudite",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Riyadh/Talent-Acquisition-Intern_R0326371-1"
-  },
-  {
    "id": "1ff7b151a91d",
    "company": "Thales",
    "sector": "Défense",
@@ -1059,17 +1139,6 @@
    "city": "Singapore",
    "country": "Singapour",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Communications-Intern_R0338806"
-  },
-  {
-   "id": "f2e21698dd1d",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Business App Support Intern - 2027 Start",
-   "city": "Singapore",
-   "country": "Singapour",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Business-App-Support-Intern---2027-Start_R0301783"
   },
   {
    "id": "c649c3fa10f7",
