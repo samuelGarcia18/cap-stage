@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-18T15:17:08Z",
- "errors": {},
+ "updated": "2026-11-19T15:24:41Z",
+ "errors": {
+  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)"
+ },
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -137,114 +139,180 @@
  ],
  "offers": [
   {
-   "id": "c4104c6e3438",
+   "id": "dfa2f2b9c09d",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Werkstudent  (w/m/d) A320 Family FCO AI Implementation & Process Automation",
-   "city": "Hamburg Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent---w-m-d--A320-Family-FCO-AI-Implementation---Process-Automation_JR10454297-1"
-  },
-  {
-   "id": "8524429eb8b1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "VIE Finance Transformation Analyst- AI & Emerging Tech",
-   "city": "Herndon Area, VA",
-   "country": "United States of America",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-Finance-Transformation-Analyst--AI---Emerging-Tech_JR10456967"
-  },
-  {
-   "id": "e548277055b0",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "VIE (d/f/m) 2027 - Germany - Quality Procurement Transverse Project Manager",
-   "city": "Hamburg - Finkenwerder",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg---Finkenwerder/XMLNAME--VIE-2027---Germany---Airbus-SAS---Quality-Procurement-Transverse-Project-Manager----H-F-_JR10444107"
-  },
-  {
-   "id": "8fd3e85a40df",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#Discover I 2027-2028 Eurodrone Process Engineer Intern",
-   "city": "Sevilla - Tablada",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer_JR10457669"
-  },
-  {
-   "id": "e2b2b2a4042e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#DISCOVER I 2027/2028 Quality Team (Cádiz)- Support to transformation project Internship",
-   "city": "Cadiz Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Cadiz-Area/XMLNAME--DISCOVER-I-2027-2028-Quality-Team--Cdiz---Support-to-transformation-project-Internship_JR10455666"
-  },
-  {
-   "id": "873f0a5e02a1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#Discover I 2027-2028 - A400M Retrofit/MRO Planning & Operations Intern",
-   "city": "Sevilla Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla-Area/XMLNAME--Discover-I-2027-2028---A400M-Retrofit-MRO-Planning---Operations-Intern_JR10455951"
-  },
-  {
-   "id": "8c6b3ca69482",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#DISCOVER I 2027-2028 INTERNSHIP - A350 SECTION 19 - Quality Production",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--DISCOVER-I-2027-2028-INTERNSHIP---A350-SECTION-19---Quality-Production_JR10456017"
-  },
-  {
-   "id": "c9e7bac7e137",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Discover I 2027-2028 INTERNSHIP in Structural Test Laboratory & Systems Area",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-I-2027-2028-INTERNSHIP-in-Structural-Test-Laboratory---Systems-Area_JR10457475"
-  },
-  {
-   "id": "bfdc0391c2aa",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Industrial Design Intern – Product Design Cabin. Hamburg (d/f/m)",
-   "city": "Hamburg Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867"
-  },
-  {
-   "id": "6bfb3cf05064",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#Discover II 2026-2027 Internship in  Service Data Integration",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "#Discover I 2027-2028  A330 MRTT Industrial Performance Improvement Internship",
    "city": "Getafe",
    "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-II-2026-2027-Internship-in--Service-Data-Integration_JR10455954"
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--A330-MRTT-Industrial-Performance-Improvement-Internship_JR10456444"
+  },
+  {
+   "id": "835ac4eba3ec",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "General Facility Services and Business Operations Filton Placement (12.5 months)",
+   "city": "Bristol Area",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/General-Facility-Services-and-Business-Operations-Placement--125-months-_JR10426281"
+  },
+  {
+   "id": "42be96df5d13",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Business Integrator Single Aisle Placement (12.5 months)",
+   "city": "Broughton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Business-Integrator-Single-Aisle-Placement--125-months-_JR10429695"
+  },
+  {
+   "id": "fc80466b05b4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "#Discover I 2027-2028 Electrical Sistem Instalation Team INTERN.",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/Early-Careers-para-2027--Programa-Discover-I_JR10458300"
+  },
+  {
+   "id": "7858e5a49f6e",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Werkstudent (d/m/w) HR Support",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--HR-Support_JR10457925-1"
+  },
+  {
+   "id": "de6fa4014d71",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "VIE 2027- Singapore- Finance controlling/consolidation & Cross-functional projects (m/f)",
+   "city": "Singapore (ASAP)",
+   "country": "Singapour",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Singapore-ASAP/VIE-2027--Singapore--Finance-controlling-consolidation---Cross-functional-projects--m-f-_JR10456969"
+  },
+  {
+   "id": "ac2cf91574d6",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Werkstudent (d/m/w) - Einkauf - Account Management Hamburg",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent--d-m-w----Einkauf---Account-Management-Hamburg_JR10454731-1"
+  },
+  {
+   "id": "935fd1721e9b",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "VIE 2027 - CHINA - Industrial Procurement  - H/F",
+   "city": "Tianjin Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/VIE-2027---CHINA---Industrial-Procurement----H-F_JR10437653"
+  },
+  {
+   "id": "bce60bfa36b1",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Finance COOP internship",
+   "city": "Riyadh",
+   "country": "Arabie saoudite",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Riyadh/Finance-COOP-internship_JR10415602"
+  },
+  {
+   "id": "2ab7a0ea93a3",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Internship in divisional strategy",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-in-divisional-strategy-AD_JR10451960"
+  },
+  {
+   "id": "6e3e86e56be2",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "HR Reward Intern",
+   "city": "Beijing",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing/HR-Reward-Intern_JR10458062"
+  },
+  {
+   "id": "a5f148f20a39",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Technical Data Analyst Intern",
+   "city": "Bangalore Area",
+   "country": "Inde",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392"
+  },
+  {
+   "id": "0e41735cac76",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Quality Intern",
+   "city": "Santiago de Querétaro (AH)",
+   "country": "Mexique",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Santiago-de-Quertaro-AH/Quality-Intern_JR10459395"
+  },
+  {
+   "id": "fb820a62c0ed",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Werkstudent (d/m/w) für den Bereich SA Ramp-up Value Stream Management",
+   "city": "Hamburg - Finkenwerder",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg---Finkenwerder/Werkstudent--d-m-w--fr-den-Bereich-SA-Ramp-up-Value-Stream-Management_JR10458052"
+  },
+  {
+   "id": "48b25d91b7b3",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Werkstudent (d/m/w) im Bereich Agentic-AI-gestützte Softwareentwicklung",
+   "city": "Ulm Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Werkstudent--d-m-w--im-Bereich-Agentic-AI-gesttzte-Softwareentwicklung_JR10452627"
+  },
+  {
+   "id": "ac64b16afda9",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-19T15:24:41Z",
+   "title": "Talent Acquisition Intern - 12 Month Placement",
+   "city": "GBR - Bristol, UK",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Talent-Acquisition-Intern---12-Month-Placement_JR2026524412"
   },
   {
    "id": "a738bd00df2a",
@@ -258,28 +326,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--Softwareentwicklung-und-3D-Design-fr-eine-Simulations--und-Planungssoftware-Unity_JR10453662"
   },
   {
-   "id": "64fa0602e6a6",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#Discover I 2027-2028 Operational Quality Horizontal Tail Plane Intern",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Operational-Quality-Horizontal-Tail-Plane-Intern_JR10456040"
-  },
-  {
-   "id": "c4cd8a342f3d",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "#Discover I 2027-2028 QUALITY SUPPORT & IMPROVEMENT GETAFE INTERNSHIP",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-QUALITY-SUPPORT---IMPROVEMENT-GETAFE-INTERNSHIP_JR10455973"
-  },
-  {
    "id": "71f81b1a16a1",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -289,28 +335,6 @@
    "city": "Broughton",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Business-Development-and-Integration-Placement--125-months-_JR10427910"
-  },
-  {
-   "id": "fa96dd6d45bd",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Werkstudent (d/m/w) im Bereich After Sales",
-   "city": "Hamburg Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-After-Sales_JR10457748"
-  },
-  {
-   "id": "f95351e91777",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Master Thesis on Characterization of Sequence Robustness for Secure NTN Communications (d/f/m)",
-   "city": "München Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Master-Thesis-on-Characterization-of-Sequence-Robustness-for-Secure-NTN-Communications--d-f-m-_JR10424504-1"
   },
   {
    "id": "420825ebd310",
@@ -445,17 +469,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895"
   },
   {
-   "id": "7532e1eaf0a2",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-17T15:39:54Z",
-   "title": "#DISCOVER I 2027-2028 INTERNSHIP INDUSTRIAL MAINTENANCE INTERNSHIP",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--DISCOVER-I-2027-2028-INTERNSHIP-INDUSTRIAL-MAINTENANCE-INTERNSHIP_JR10455746"
-  },
-  {
    "id": "20457f904bef",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -575,17 +588,6 @@
    "city": "United States-Minnesota-Plymouth",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431"
-  },
-  {
-   "id": "fd399d9f5c88",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-12T14:48:01Z",
-   "title": "Human Resources Early Careers Placement (12.5 months)",
-   "city": "Filton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Human-Resources-Early-Careers-Placement--125-months-_JR10431210"
   },
   {
    "id": "bd25cb2227b2",
@@ -751,17 +753,6 @@
    "city": "Bangalore",
    "country": "Inde",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/Embedded-Software-Intern_R0347902"
-  },
-  {
-   "id": "00b0b49a8b0f",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-09T15:30:49Z",
-   "title": "PE Intern",
-   "city": "Beijing",
-   "country": "China",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Beijing/PE-Intern_R0345303"
   },
   {
    "id": "b4c9c785c5e2",
