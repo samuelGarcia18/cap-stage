@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:01:36Z",
+ "updated": "2026-11-21T14:23:09Z",
  "errors": {},
  "manual": [
   {
@@ -136,6 +136,39 @@
   }
  ],
  "offers": [
+  {
+   "id": "2cd0be6e6e8f",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-21T14:23:09Z",
+   "title": "Praktikant (m/w/d) im Bereich Kompetenzmanagement und Entwicklung des Ausbildungsangebots",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant--m-w-d--im-Bereich-Kompetenzmanagement-und-Entwicklung-des-Ausbildungsangebots_JR10442953"
+  },
+  {
+   "id": "aba90bd57c9d",
+   "company": "Thales",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-21T14:23:09Z",
+   "title": "Member of Technical Staff- Intern",
+   "city": "Ottawa",
+   "country": "Canada",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Member-of-Technical-Staff--Intern_R0348683-2"
+  },
+  {
+   "id": "828d1b638f1b",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-21T14:23:09Z",
+   "title": "2027 Critical Skills Development Intern - Remote",
+   "city": "United States-Remote",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2027-Critical-Skills-Development-Intern---Remote_R10261601"
+  },
   {
    "id": "37733e5787b7",
    "company": "Airbus",
@@ -313,17 +346,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559"
   },
   {
-   "id": "6b6bc7959ac2",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Electrical Engineering Intern- Huntsville AL",
-   "city": "United States-Alabama-Huntsville",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10261547"
-  },
-  {
    "id": "0ee43c58da4c",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -355,50 +377,6 @@
    "city": "United States-Virginia-Falls Church",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Governance---Strategy-Intern---Falls-Church-VA_R10261466"
-  },
-  {
-   "id": "e236fa5af9c2",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA",
-   "city": "United States-California-Redondo Beach",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10261454"
-  },
-  {
-   "id": "4cc6af083561",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Thermal Engineer Intern - Azusa CA",
-   "city": "United States-California-Azusa",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449"
-  },
-  {
-   "id": "bb26e0ac95ec",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Propulsion Test Engineer Intern - Edwards AFB CA",
-   "city": "United States-California-Edwards AFB",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436"
-  },
-  {
-   "id": "dfa2f2b9c09d",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-19T15:24:41Z",
-   "title": "#Discover I 2027-2028  A330 MRTT Industrial Performance Improvement Internship",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--A330-MRTT-Industrial-Performance-Improvement-Internship_JR10456444"
   },
   {
    "id": "835ac4eba3ec",
@@ -443,72 +421,6 @@
    "city": "Immenstaad am Bodensee",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Praktikum--d-m-w--Softwareentwicklung-und-3D-Design-fr-eine-Simulations--und-Planungssoftware-Unity_JR10453662"
-  },
-  {
-   "id": "71f81b1a16a1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "Business Development and Integration Placement (12.5 months)",
-   "city": "Broughton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Business-Development-and-Integration-Placement--125-months-_JR10427910"
-  },
-  {
-   "id": "ed5ef2e2106f",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "2027 Global Trade Intern - Linthicum MD",
-   "city": "United States-Maryland-Linthicum",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Trade-Intern---Linthicum-MD_R10261149"
-  },
-  {
-   "id": "e776b5a3717a",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "2027 Intern - Human Factors Engineering",
-   "city": "United States-Florida-Melbourne",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097"
-  },
-  {
-   "id": "2397223515c7",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "2027 Industrial Engineer Intern - Apopka FL",
-   "city": "United States-Florida-Apopka",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054"
-  },
-  {
-   "id": "19f26499b016",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "2027 Manufacturing Engineer Intern - Baltimore MD",
-   "city": "United States-Maryland-Baltimore",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045"
-  },
-  {
-   "id": "fdf62a9f83a5",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-18T15:17:08Z",
-   "title": "2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA",
-   "city": "United States-California-Sunnyvale",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033"
   },
   {
    "id": "20457f904bef",
@@ -1312,17 +1224,6 @@
    "city": "Hengelo",
    "country": "Pays-Bas",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Stage-afstudeeropdracht---Travel-Risk-Management_R0338512"
-  },
-  {
-   "id": "ad0d5b2fc31c",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Werkstudent (m/f/d) Data Engineering & AI for Radar",
-   "city": "DITZINGEN SRA OME",
-   "country": "Allemagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/DITZINGEN-SRA-OME/Werkstudent--m-f-d--within-Radar-Systems-Engineering-department-in-the-Domain-Surface-Radar--SRA-_R0336402"
   },
   {
    "id": "b84104a1c4ad",
