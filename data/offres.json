@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:15:37Z",
+ "updated": "2026-11-23T17:37:15Z",
  "errors": {},
  "manual": [
   {
@@ -66,7 +66,7 @@
    "name": "RTX (Raytheon, Collins, Pratt & Whitney)",
    "sector": "Défense",
    "url": "https://careers.rtx.com",
-   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+   "why": "page inaccessible (HTTPError)"
   },
   {
    "name": "Rolls-Royce",
@@ -120,7 +120,7 @@
    "name": "OHB",
    "sector": "Spatial",
    "url": "https://www.ohb.de/en/career",
-   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
+   "why": "page inaccessible (URLError)"
   },
   {
    "name": "Avio",
@@ -136,6 +136,193 @@
   }
  ],
  "offers": [
+  {
+   "id": "974d360d1ce0",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Stagiaire - Fiabiliste",
+   "city": "Mirabel (Airbus Atlantique Canada)",
+   "country": "Canada",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mirabel-Airbus-Atlantique-Canada/Stagiaire---Fiabiliste_JR10460556"
+  },
+  {
+   "id": "3db3fec90b17",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Werkstudent (d/m/w) im Bereich Manufacturing Engineering - Projektmanagement und Support",
+   "city": "Manching",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w--im-Bereich-Manufacturing-Engineering---Projektmanagement-und-Support_JR10455068-1"
+  },
+  {
+   "id": "3a90d2395da8",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Praktikum \"AI Softwareentwicklung\" (d/m/w)",
+   "city": "Stuttgart Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095"
+  },
+  {
+   "id": "544c50b6f3fd",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "#Discover I 2027-2028 Configuration & Management Systems Support Internship",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Configuration---Management-Systems-Support-Internship_JR10455324"
+  },
+  {
+   "id": "de6fa4014d71",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "VIE 2027- Singapore- Finance controlling/consolidation & Cross-functional projects (m/f)",
+   "city": "Singapore (ASAP)",
+   "country": "Singapour",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Singapore-ASAP/VIE-2027--Singapore--Finance-controlling-consolidation---Cross-functional-projects--m-f-_JR10456969"
+  },
+  {
+   "id": "4cccf57797bd",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "#Discover I 2027-2028 Flight line support A330 MRTT Internship",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Flight-line-support-A330-MRTT-Internship_JR10456433"
+  },
+  {
+   "id": "8b1a9ec3af5f",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2026-27 INTERNSHIP MASTER AIRFRAME",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME-2026-27-INTERNSHIP-MASTER-AIRFRAME_JR10458591"
+  },
+  {
+   "id": "6d81b4b6abf5",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Export Control Placement (12 months)",
+   "city": "Portsmouth",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
+  },
+  {
+   "id": "45f7df87382c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Procurement Manager Placement (12 months)",
+   "city": "Portsmouth",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Procurement-Manager-Placement--12-months-_JR10424560"
+  },
+  {
+   "id": "19a444279292",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Facilities Management Placement (12 months)",
+   "city": "Portsmouth",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Facilities-Management-Placement--12-months-_JR10426760"
+  },
+  {
+   "id": "23286c9fa52c",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Filton Plant Performance Improvement Placement (12.5 months)",
+   "city": "Filton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Filton-Plant-Performance-Improvement-Placement--125-months-_JR10429933"
+  },
+  {
+   "id": "bec68458ebc1",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Internship (d/f/m) Tolerancing - Geometrical Variation management",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship--d-f-m--Tolerancing---Geometrical-Variation-management_JR10444910"
+  },
+  {
+   "id": "e5325779d633",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2027 Systems Engineer Intern - Chantilly VA",
+   "city": "United States-Virginia-Chantilly",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633"
+  },
+  {
+   "id": "3d3f78381f45",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2027 Software Engineer Intern - Linthicum Maryland",
+   "city": "United States-Maryland-Linthicum",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+  },
+  {
+   "id": "879e1b09919e",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2027 Cyber Systems Engineer Intern - Roy UT",
+   "city": "United States-Utah-Roy",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+  },
+  {
+   "id": "0ec55cf26647",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2027 Software Engineering Intern - Boulder CO",
+   "city": "United States-Colorado-Boulder",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798"
+  },
+  {
+   "id": "fe3247c51a2d",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "2027 Software Test Engineering Intern - Roy UT",
+   "city": "United States-Utah-Roy",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728"
+  },
   {
    "id": "2cd0be6e6e8f",
    "company": "Airbus",
@@ -168,61 +355,6 @@
    "city": "United States-Remote",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2027-Critical-Skills-Development-Intern---Remote_R10261601"
-  },
-  {
-   "id": "37733e5787b7",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "#Discover I 2027-2028 Performance and Mass Properties Intern",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Talent-Acquisition-Intern_JR10457915"
-  },
-  {
-   "id": "a780f68daa85",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "#Discover I 2027-2028  Internship in Cross Operations Performance & Improvement Team for Air Power Operations",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--Internship-in-Cross-Operations-Performance---Improvement-Team-for-Air-Power-Operations_JR10456450"
-  },
-  {
-   "id": "ee8c8e40b0e4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "#Discover I 2027-2028 OSD Flight Crew for the A400M Internship",
-   "city": "Sevilla - San Pablo",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---San-Pablo/XMLNAME--Discover-I-2027-2028-OSD-Flight-Crew-for-the-A400M-Internship_JR10457409"
-  },
-  {
-   "id": "ce9cf83c9983",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "Werkstudent (d/m/w), (Generative) Softwareentwicklung & MBSE – Fokus Java",
-   "city": "Ulm Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Werkstudent--d-m-w--Softwareentwicklung---MBSE--m-w-d----Fokus-Java--UML-SysML---Tool-Migration_JR10445301"
-  },
-  {
-   "id": "e01657779d61",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "#Discover I 2027-2028 Digital customer services Internship",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Digital-customer-services-Internship_JR10458772"
   },
   {
    "id": "6c00c31bf3bd",
@@ -632,17 +764,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---San-Pablo/XMLNAME--Discover-I-2027-2028-A400M-Support-to-Programme-Driven-offers-Intern_JR10455750"
   },
   {
-   "id": "c59f6b672cc9",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-10T14:30:09Z",
-   "title": "Finance Intern",
-   "city": "Beijing",
-   "country": "China",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Beijing/Finance-Intern_R0346524"
-  },
-  {
    "id": "02200cb26d3e",
    "company": "Thales",
    "sector": "Défense",
@@ -784,17 +905,6 @@
    "city": "Mexico ADS",
    "country": "Mexique",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mexico-ADS/Analista-de-Comercio-Exterior--Trainee-_JR10454748"
-  },
-  {
-   "id": "b28398e917ac",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-04T13:56:21Z",
-   "title": "Praktikant (m/w/d) Division Health Management",
-   "city": "Donauwörth",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant--m-w-d--Division-Health-Management_JR10452653"
   },
   {
    "id": "c9260c91c021",
@@ -1158,17 +1268,6 @@
    "city": "Riyadh",
    "country": "Arabie saoudite",
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Riyadh/Graphic-Designer--Internship_R0327027-1"
-  },
-  {
-   "id": "cbbf5fa02369",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Beca/Internship Young Talent Program 2026-2027",
-   "city": "Madrid Tres Cantos",
-   "country": "Espagne",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid-Tres-Cantos/Beca-Internship-Young-Talent-Program-2026-2027_R0327022-1"
   },
   {
    "id": "9df9ee3dc16b",
