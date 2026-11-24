@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:37:15Z",
+ "updated": "2026-11-24T17:08:10Z",
  "errors": {},
  "manual": [
   {
@@ -120,7 +120,7 @@
    "name": "OHB",
    "sector": "Spatial",
    "url": "https://www.ohb.de/en/career",
-   "why": "page inaccessible (URLError)"
+   "why": "système de recrutement non détecté (page chargée par JavaScript ou outil maison)"
   },
   {
    "name": "Avio",
@@ -137,26 +137,180 @@
  ],
  "offers": [
   {
-   "id": "974d360d1ce0",
+   "id": "3b34184deb9a",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "Stagiaire - Fiabiliste",
-   "city": "Mirabel (Airbus Atlantique Canada)",
-   "country": "Canada",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mirabel-Airbus-Atlantique-Canada/Stagiaire---Fiabiliste_JR10460556"
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Enablement & Project Support Placement (12.5 months)",
+   "city": "Broughton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Enablement---Project-Support-Placement--125-months-_JR10430449"
   },
   {
-   "id": "3db3fec90b17",
+   "id": "d0961f7b1364",
    "company": "Airbus",
    "sector": "Aéronautique",
    "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "Werkstudent (d/m/w) im Bereich Manufacturing Engineering - Projektmanagement und Support",
-   "city": "Manching",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w--im-Bereich-Manufacturing-Engineering---Projektmanagement-und-Support_JR10455068-1"
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "#Discover I 2027-2028 MANUFACTURING ENGINEERING S19 Internship",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-MANUFACTURING-ENGINEERING-S19-Internship_JR10456087"
+  },
+  {
+   "id": "161421395c34",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "#Discover I 2026-2027 NEW TECHNOLOGIES DEVELOPMENT AND IMPLEMENTATION IN FUTURE INDUSTRIAL SYSTEMS INTERN",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2026-2027-NEW-TECHNOLOGIES-DEVELOPMENT-AND-IMPLEMENTATION-IN-FUTURE-INDUSTRIAL-SYSTEMS-INTERN_JR10455892"
+  },
+  {
+   "id": "a656024d6697",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Discover I 2027-2028 / Applying the V-Model in a Real-World Space Mission Development Internship",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-I-2027-2028---Applying-the-V-Model-in-a-Real-World-Space-Mission-Development-Internship_JR10456589"
+  },
+  {
+   "id": "59e11799b481",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Discover I 2027-2028 Structural Dynamics and Aeroelasticity Intern",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-I-2027-2028-Structural-Dynamics-and-Aeroelasticity-Intern_JR10458278"
+  },
+  {
+   "id": "cf5028722aed",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "#DISCOVER I 2027 2028 INTERNSHIP MRTT and LTA Training Devices",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--DISCOVER-I-2027-2028-INTERNSHIP-MRTT-and-LTA-Training-Devices_JR10458729"
+  },
+  {
+   "id": "0d9173a3037a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "#Discover I 2027-2028 TECHNICAL AREAS  PRODUCTION SUPPORT INTERN",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-TECHNICAL-AREAS--PRODUCTION-SUPPORT-INTERN_JR10456505"
+  },
+  {
+   "id": "aa374aebee6e",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "#Discover I 2027-2028 ARIANE 6 PRODUCTION SUPPORT INTERN",
+   "city": "Getafe",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-ARIANE-6-PRODUCTION-SUPPORT-INTERN_JR10456448"
+  },
+  {
+   "id": "bef60cdd4d2a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Intern (Engineering & digitalization)",
+   "city": "Beijing Area",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Intern--Engineering---digitalization-_JR10459912"
+  },
+  {
+   "id": "a938c94d0a7d",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "ACOLH1 intern",
+   "city": "Tianjin - FAL TJ WC",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin---FAL-TJ-WC/ACOLH1-intern_JR10460726"
+  },
+  {
+   "id": "78549a90d7b4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "2027 Summer Internship - Industrial Engineering - PPE/IE",
+   "city": "Mobile Area, AL",
+   "country": "United States of America",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140"
+  },
+  {
+   "id": "3cc2ce0b4ed4",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Trainee Customer Support",
+   "city": "Ciudad de Mexico",
+   "country": "Mexique",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ciudad-de-Mexico/Trainee-Customer-Support_JR10459132"
+  },
+  {
+   "id": "7aed6243589e",
+   "company": "Boeing",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "Test & Evaluation Intern 2027 - 12 Month Placement",
+   "city": "GBR - RAF Lossiemouth, United Kingdom",
+   "country": "Royaume-Uni",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---RAF-Lossiemouth-United-Kingdom/Test---Evaluation-Intern-2027---12-Month-Placement_JR2026530394"
+  },
+  {
+   "id": "c457885b8646",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "2027 Financial Reporting Intern - McLean VA",
+   "city": "United States-Virginia-McLean",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891"
+  },
+  {
+   "id": "6fe560050853",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "2027 Software Engineering Intern - Colorado Springs CO",
+   "city": "United States-Colorado-Colorado Springs",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918"
+  },
+  {
+   "id": "b55e2a256ce5",
+   "company": "Northrop Grumman",
+   "sector": "Défense",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-24T17:08:10Z",
+   "title": "2027 Intern Test & Evaluation Oklahoma City (Part-Time)",
+   "city": "United States-Oklahoma-Oklahoma City",
+   "country": "United States of America",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915"
   },
   {
    "id": "3a90d2395da8",
@@ -203,17 +357,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Flight-line-support-A330-MRTT-Internship_JR10456433"
   },
   {
-   "id": "8b1a9ec3af5f",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "2026-27 INTERNSHIP MASTER AIRFRAME",
-   "city": "Getafe Area",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME-2026-27-INTERNSHIP-MASTER-AIRFRAME_JR10458591"
-  },
-  {
    "id": "6d81b4b6abf5",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -223,6 +366,17 @@
    "city": "Portsmouth",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
+  },
+  {
+   "id": "3db3fec90b17",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-23T17:37:15Z",
+   "title": "Werkstudent (d/m/w) im Bereich Manufacturing Engineering - Projektmanagement und Support",
+   "city": "Manching",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w--im-Bereich-Manufacturing-Engineering---Projektmanagement-und-Support_JR10455068-1"
   },
   {
    "id": "45f7df87382c",
@@ -256,17 +410,6 @@
    "city": "Filton",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Filton-Plant-Performance-Improvement-Placement--125-months-_JR10429933"
-  },
-  {
-   "id": "bec68458ebc1",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "Internship (d/f/m) Tolerancing - Geometrical Variation management",
-   "city": "Hamburg Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship--d-f-m--Tolerancing---Geometrical-Variation-management_JR10444910"
   },
   {
    "id": "e5325779d633",
@@ -445,17 +588,6 @@
    "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Industrialization---Maintenance-Intern_R0340756"
   },
   {
-   "id": "8fb77c30159b",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Financial Planning & Analysis Intern - Falls Church VA",
-   "city": "United States-Virginia-Falls Church",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Financial-Planning---Analysis-Intern---Falls-Church-VA_R10261586"
-  },
-  {
    "id": "8ee1c657daa2",
    "company": "Northrop Grumman",
    "sector": "Défense",
@@ -478,39 +610,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559"
   },
   {
-   "id": "0ee43c58da4c",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Cybersecurity Engineer Intern",
-   "city": "United States-Utah-Roy",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cybersecurity-Engineer-Intern_R10261475"
-  },
-  {
-   "id": "af154a9099b3",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Project management Intern - Linthicum MD",
-   "city": "United States-Maryland-Linthicum",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Project-management-Intern---Linthicum-MD_R10261472"
-  },
-  {
-   "id": "403c5e08ac91",
-   "company": "Northrop Grumman",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "2027 Governance & Strategy Intern - Falls Church VA",
-   "city": "United States-Virginia-Falls Church",
-   "country": "United States of America",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Governance---Strategy-Intern---Falls-Church-VA_R10261466"
-  },
-  {
    "id": "835ac4eba3ec",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -531,17 +630,6 @@
    "city": "Broughton",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Business-Integrator-Single-Aisle-Placement--125-months-_JR10429695"
-  },
-  {
-   "id": "ac64b16afda9",
-   "company": "Boeing",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-19T15:24:41Z",
-   "title": "Talent Acquisition Intern - 12 Month Placement",
-   "city": "GBR - Bristol, UK",
-   "country": "Royaume-Uni",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Talent-Acquisition-Intern---12-Month-Placement_JR2026524412"
   },
   {
    "id": "a738bd00df2a",
@@ -575,17 +663,6 @@
    "city": "Riyadh",
    "country": "Arabie saoudite",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Riyadh/Project-Buyer-Trainee_JR10458396"
-  },
-  {
-   "id": "eb35a72da6a8",
-   "company": "Thales",
-   "sector": "Défense",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-17T15:39:54Z",
-   "title": "Research and Innovation Intern",
-   "city": "Ottawa",
-   "country": "Canada",
-   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1"
   },
   {
    "id": "9428bb494a78",
