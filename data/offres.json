@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-24T17:08:10Z",
- "errors": {},
+ "updated": "2026-11-25T16:55:21Z",
+ "errors": {
+  "Northrop Grumman": "KeyError: 'externalPath' (connecteur non vérifié : contrôlez host/tenant/site)"
+ },
  "manual": [
   {
    "name": "Lockheed Martin",
@@ -137,6 +139,72 @@
  ],
  "offers": [
   {
+   "id": "8ae58b2b023a",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "#Discover I 2027-2028 Procurement and Site Support Internship",
+   "city": "Getafe Area",
+   "country": "Espagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Procurement-and-Site-Support-Internship_JR10456339"
+  },
+  {
+   "id": "3f094bdf82ba",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "Safety Improvement Project Coordinator Placement (12.5 months)",
+   "city": "Broughton",
+   "country": "Royaume-Uni",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Safety-Improvement-Project-Coordinator-Placement--125-months-_JR10430032"
+  },
+  {
+   "id": "7858e5a49f6e",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "Werkstudent (d/m/w) HR Support",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--HR-Support_JR10457925-1"
+  },
+  {
+   "id": "ac2cf91574d6",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "Werkstudent (d/m/w) - Einkauf - Account Management Hamburg",
+   "city": "Hamburg Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Werkstudent--d-m-w----Einkauf---Account-Management-Hamburg_JR10454731-1"
+  },
+  {
+   "id": "0bcafd5b408d",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "VIE 2027-LATAM (Mexico)-International Procurement Manager - H/F",
+   "city": "Ciudad de Mexico",
+   "country": "Mexique",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ciudad-de-Mexico/VIE-2027-LATAM--Mexico--International-Procurement-Manager---H-F_JR10458254"
+  },
+  {
+   "id": "c1e88f97957d",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-25T16:55:21Z",
+   "title": "Werkstudent (d/m/w) für unser Reinraum Management im Bereich Space",
+   "city": "München Area",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--fr-unser-Reinraum-Management-im-Bereich-Space_JR10458518"
+  },
+  {
    "id": "3b34184deb9a",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -225,39 +293,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-ARIANE-6-PRODUCTION-SUPPORT-INTERN_JR10456448"
   },
   {
-   "id": "bef60cdd4d2a",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-24T17:08:10Z",
-   "title": "Intern (Engineering & digitalization)",
-   "city": "Beijing Area",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Intern--Engineering---digitalization-_JR10459912"
-  },
-  {
-   "id": "a938c94d0a7d",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-24T17:08:10Z",
-   "title": "ACOLH1 intern",
-   "city": "Tianjin - FAL TJ WC",
-   "country": "China",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin---FAL-TJ-WC/ACOLH1-intern_JR10460726"
-  },
-  {
-   "id": "78549a90d7b4",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-24T17:08:10Z",
-   "title": "2027 Summer Internship - Industrial Engineering - PPE/IE",
-   "city": "Mobile Area, AL",
-   "country": "United States of America",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140"
-  },
-  {
    "id": "3cc2ce0b4ed4",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -324,39 +359,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095"
   },
   {
-   "id": "544c50b6f3fd",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "#Discover I 2027-2028 Configuration & Management Systems Support Internship",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Configuration---Management-Systems-Support-Internship_JR10455324"
-  },
-  {
-   "id": "de6fa4014d71",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "VIE 2027- Singapore- Finance controlling/consolidation & Cross-functional projects (m/f)",
-   "city": "Singapore (ASAP)",
-   "country": "Singapour",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Singapore-ASAP/VIE-2027--Singapore--Finance-controlling-consolidation---Cross-functional-projects--m-f-_JR10456969"
-  },
-  {
-   "id": "4cccf57797bd",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "#Discover I 2027-2028 Flight line support A330 MRTT Internship",
-   "city": "Getafe",
-   "country": "Espagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Flight-line-support-A330-MRTT-Internship_JR10456433"
-  },
-  {
    "id": "6d81b4b6abf5",
    "company": "Airbus",
    "sector": "Aéronautique",
@@ -366,17 +368,6 @@
    "city": "Portsmouth",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Export-Control-Placement--12-months-_JR10432225"
-  },
-  {
-   "id": "3db3fec90b17",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-23T17:37:15Z",
-   "title": "Werkstudent (d/m/w) im Bereich Manufacturing Engineering - Projektmanagement und Support",
-   "city": "Manching",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w--im-Bereich-Manufacturing-Engineering---Projektmanagement-und-Support_JR10455068-1"
   },
   {
    "id": "45f7df87382c",
@@ -544,39 +535,6 @@
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Plant-Production-Support-Placement--125-Months-_JR10428430"
   },
   {
-   "id": "a96805736f18",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "Facilities Management Placement (12.5 months)",
-   "city": "Filton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Facilities-Management-Placement--125-months-_JR10427891"
-  },
-  {
-   "id": "eb6fcc49fc48",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "Lean Business Management Placement (12.5 months)",
-   "city": "Broughton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Lean-Business-Management-Placement--125-months-_JR10426448"
-  },
-  {
-   "id": "2842d36ca314",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-20T15:01:36Z",
-   "title": "General Facility Services and Business Operations Broughton Placement (12.5 months)",
-   "city": "Chester Area",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Chester-Area/General-Facility-Services-and-Business-Operations-Placement--125-months-_JR10426278"
-  },
-  {
    "id": "0079429d147b",
    "company": "Thales",
    "sector": "Défense",
@@ -608,28 +566,6 @@
    "city": "United States-Mississippi-Iuka",
    "country": "United States of America",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559"
-  },
-  {
-   "id": "835ac4eba3ec",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-19T15:24:41Z",
-   "title": "General Facility Services and Business Operations Filton Placement (12.5 months)",
-   "city": "Bristol Area",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/General-Facility-Services-and-Business-Operations-Placement--125-months-_JR10426281"
-  },
-  {
-   "id": "42be96df5d13",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-19T15:24:41Z",
-   "title": "Business Integrator Single Aisle Placement (12.5 months)",
-   "city": "Broughton",
-   "country": "Royaume-Uni",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Business-Integrator-Single-Aisle-Placement--125-months-_JR10429695"
   },
   {
    "id": "a738bd00df2a",
@@ -1213,17 +1149,6 @@
    "city": "Stuttgart Area",
    "country": "Allemagne",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-nchste-Generation-TT-C-Transpondern---d-m-w-_JR10432660-1"
-  },
-  {
-   "id": "88cce7631ba5",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-10-08T11:44:00Z",
-   "title": "Praktikum (d/m/w) im Bereich der AIRBUS Berufsausbildung Stade",
-   "city": "Stade",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Praktikum--d-m-w--im-Bereich-der-AIRBUS-Berufsausbildung-Stade_JR10441830"
   },
   {
    "id": "35b1bfd1041f",
