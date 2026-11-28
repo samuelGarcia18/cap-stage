@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:19:14Z",
+ "updated": "2026-11-28T15:13:00Z",
  "errors": {},
  "manual": [
   {
@@ -136,6 +136,39 @@
   }
  ],
  "offers": [
+  {
+   "id": "040d2218d266",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-28T15:13:00Z",
+   "title": "VIE 2026-China- Commercial Support Manager (Commercial and Administration Support) (ALL GENDER)",
+   "city": "Beijing",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing/VIE-2026-China--Commercial-Support-Manager--Commercial-and-Administration-Support---ALL-GENDER-_JR10457113"
+  },
+  {
+   "id": "57f7b3c48c10",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-28T15:13:00Z",
+   "title": "VIE - Financial Systems Specialist (ALL GENDER)",
+   "city": "Beijing",
+   "country": "China",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing/VIE---Financial-Systems-Specialist_JR10460379"
+  },
+  {
+   "id": "8ddf4e41c9a8",
+   "company": "Airbus",
+   "sector": "Aéronautique",
+   "source": "Site entreprise",
+   "first_seen": "2026-11-28T15:13:00Z",
+   "title": "VIE - Stress Engineer (d/f/m)",
+   "city": "Donauwörth",
+   "country": "Allemagne",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/VIE---Stress-Engineer--d-f-m-_JR10374041"
+  },
   {
    "id": "026d2d3574e9",
    "company": "Airbus",
@@ -465,17 +498,6 @@
    "city": "Broughton",
    "country": "Royaume-Uni",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Safety-Improvement-Project-Coordinator-Placement--125-months-_JR10430032"
-  },
-  {
-   "id": "7858e5a49f6e",
-   "company": "Airbus",
-   "sector": "Aéronautique",
-   "source": "Site entreprise",
-   "first_seen": "2026-11-25T16:55:21Z",
-   "title": "Werkstudent (d/m/w) HR Support",
-   "city": "München Area",
-   "country": "Allemagne",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--HR-Support_JR10457925-1"
   },
   {
    "id": "3b34184deb9a",
